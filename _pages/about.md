@@ -38,9 +38,9 @@ Przemyslaw A. Grabowicz, Luca Maria Aiello, Fil Menczer
 Press coverages
 ======
 
-- El Mundo, El 'oráculo' de los bytes, 2013, elmundo.es, pdf
-- El Mundo, Los entresijos de Twitter, 2011, elmundo.es
-- Various for the Truthy project, truthy
+- El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
+- El Mundo, Los entresijos de Twitter, 2011, [elmundo.es](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
+- Media coverage of the Observatory on Social Media, [osome.iu.edu](https://osome.iu.edu/media)
 
 
 <!--
