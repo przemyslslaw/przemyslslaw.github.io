@@ -10,7 +10,9 @@ redirect_from:
 
 I am a Research Assistant Professor at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) of UMass Amherst.
 
-My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design fair and efficient social computing systems.
+My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems.
+
+Research areas: computational social science, machine learning, fairness, social media, social networks, causality
 
 <!--
 News
@@ -20,16 +22,16 @@ News
 Grants and prizes
 ======
 
-* Project "Agendas and frames in a global pandemic: Evoluation of cross-country media coverage"
-Supplementary grant from Volkswagen Foundation for 2021-2022 (€120k)
+* Project "Agendas and frames in a global pandemic: Evoluation of cross-country media coverage"\
+Supplementary grant from Volkswagen Foundation for 2021-2022 (€120k)\
 Przemyslaw A. Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
 
-* Project "Current Affairs 2.0: Agenda Setting in the European Union"
-Grant from Volkswagen Foundation for Computational Social Science for 2017-2022 (€843k)
+* Project "Current Affairs 2.0: Agenda Setting in the European Union"\
+Grant from Volkswagen Foundation for Computational Social Science for 2017-2022 (€843k)\
 Przemyslaw A. Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
 
-* WICI Data Challenge main prize recipients ($10k)
-Real-time visualization of relevant portions of large dynamic networks, 2013
+* WICI Data Challenge main prize recipients ($10k)\
+Real-time visualization of relevant portions of large dynamic networks, 2013\
 Przemyslaw A. Grabowicz, Luca Maria Aiello, Fil Menczer
 
 
