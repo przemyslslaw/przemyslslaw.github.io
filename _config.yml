@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Przemyslaw Grabowicz"
+title                    : "Przemyslaw A. Grabowicz"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Przemyslaw Grabowicz"
+  name             : "Przemyslaw A. Grabowicz"
   avatar           : "profile.png"
   bio              : "Assistant Professor of Computer Science"
   location         : #"Amherst"
