@@ -12,7 +12,7 @@ I am a Research Assistant Professor at the [College of Information and Computer 
 
 My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems.
 
-Research areas: *computational social science, machine learning, fairness, social media, social networks, causality*.
+Research areas: *fair and explainable machine learning, computational social science, social media, social networks, causality*.
 
 <!--
 News
