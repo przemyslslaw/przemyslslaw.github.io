@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) of UMass Amherst.
+I am a Research Assistant Professor at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst.
 
 My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems.
 
-Research **areas**: computational social science, machine learning, fairness, social media, social networks, causality.
+Research areas: *computational social science, machine learning, fairness, social media, social networks, causality*.
 
 <!--
 News
@@ -22,7 +22,7 @@ News
 Grants and prizes
 ======
 
-* Project "Agendas and frames in a global pandemic: Evoluation of cross-country media coverage"\
+* Project "Agendas and frames in a global pandemic: Evolution of cross-country media coverage"\
 Supplementary grant from Volkswagen Foundation for 2021-2022 (€120k)\
 Przemyslaw A. Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
 

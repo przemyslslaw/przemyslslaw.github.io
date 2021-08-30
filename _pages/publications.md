@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single-publication.html %}
 {% endfor %}
+
+<sup>†: equal contribution</sup>
+

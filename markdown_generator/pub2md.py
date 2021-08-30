@@ -74,10 +74,13 @@ def html_escape(text):
 
 import os
 for row, item in publications.iterrows():
-    print(item.pub_date, item.url_slug)
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
     year = str(item.pub_date)[:4]
+    firstauthor = item.authors.split()[1].strip(",:;'")
+    firstword = item.title.lower().split()[0].strip(",:;'")
+    filename = firstauthor+str(year) + firstword
+    md_filename = filename + ".md"
+    html_filename = filename
+    print(filename)
     
     ## YAML variables
     
