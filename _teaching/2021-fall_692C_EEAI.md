@@ -12,8 +12,10 @@ This seminar will focus on recent research into equitable and transparent algori
 
 Below, we attach an exemplary list of relevant papers and book chapters.
 
+Classes: Wednesdays 10:10AM - 11:25AM, Computer Science Bldg rm 140
 
-### Case studies and interdisciplinary research
+### Interdisciplinary research and case studies
+* Lipton, Z. C., & Steinhardt, J. (2019). Troubling trends in machine-learning scholarship. Queue, 17(1), 1–15.
 * Bertrand, M., & Mullainathan, S. (2003). Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination. In NBER Working Paper No. 9873.
 * Datta, A., Datta, A., Makagon, J., Mulligan, D. K., & Carl Tschantz, M. (2018). Discrimination in Online Advertising A Multidisciplinary Inquiry. Proceedings of Machine Learning Research, 81(Section 3), 1–15.
 * Wachter, S. (2019). Affinity Profiling and Discrimination by Association in Online Behavioural Advertising. SSRN Electronic Journal, 1–74.
