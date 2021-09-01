@@ -10,9 +10,9 @@ date: 2021-09-01
 
 This seminar will focus on recent research into equitable and transparent algorithms and systems. We will review cutting-edge research that supports the properties of fairness, accountability, and transparency across various research areas, in particular fair machine learning, explainable artificial intelligence, and their interdisciplinary underpinnings. The seminar will offer introductory lectures describing the origins of relevant research problems, highlighting major threads and approaches in this vivid research space, and describing the relations between them. The course will primarily involve reading and discussing papers and book chapters.
 
-Below, we attach an exemplary list of relevant papers and book chapters.
-
 Classes: Wednesdays 10:10AM - 11:25AM, Computer Science Bldg rm 140
+
+Below, we attach an exemplary list of relevant papers and book chapters.
 
 ### Interdisciplinary research and case studies
 * Lipton, Z. C., & Steinhardt, J. (2019). Troubling trends in machine-learning scholarship. Queue, 17(1), 1–15.
