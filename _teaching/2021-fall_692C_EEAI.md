@@ -15,17 +15,17 @@ Classes: Wednesdays 10:10AM - 11:25AM, Computer Science Bldg rm 140
 ## Schedule
 
 Meeting 1
-* LECTURE Intro to the seminar and legal/normative notions of discrimination (30 slides)
+* LECTURE Intro to the seminar and legal/normative notions of discrimination.
 
 Meeting 2
 * FMLB CHAPTER Intro (pages 7-35). [LINK](https://fairmlbook.org/)
-* PAPER Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. ACM Computing Surveys, 54(6). [LINK](https://doi.org/10.1145/3457607)
+* PAPER (SECTIONS 1-5) Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. ACM Computing Surveys, 54(6). [LINK](https://doi.org/10.1145/3457607)
 
 Meeting 3
 * FMLB CHAPTER Classification (pages 37-75). [LINK](https://fairmlbook.org/)
 
 Meeting 4
-* LECTURE Terminology differences between ML and sociology: substantive and formal equality of opportunity, direct and indirect discrimination in sociology. Missing notions of fairness. (5-10 slides)
+* LECTURE Terminology differences between ML and sociology: substantive and formal equality of opportunity, direct and indirect discrimination in sociology. Missing notions of fairness.
 * OPTIONAL PAPER Calders, T., Kamiran, F., & Pechenizkiy, M. (2009). Building classifiers with independency constraints. ICDM Workshops 2009 - IEEE International Conference on Data Mining, 13–18. [LINK](https://doi.org/10.1109/ICDMW.2009.83)
 * PAPER Zafar, M. B., Valera, I., Rodriguez, M. G., Gummadi, K. P., & Weller, A. (2017). From Parity to Preference-based Notions of Fairness in Classification. In I. Guyon, U. V Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, & R. Garnett (Eds.), Advances in Neural Information Processing Systems 30 (pp. 229–239). [LINK](http://arxiv.org/abs/1707.00010)
 
@@ -33,7 +33,7 @@ Meeting 5
 * FMLB CHAPTER Causality (pages 79-120). [LINK](https://fairmlbook.org/)
 
 Meeting 6
-* LECTURE Relation of coutnerfactual fairness to impact parity. Business necessity attributes -- why do we need them? How can we implement them? The relation to the substantive equality of opportunity. Introduction to path-specific causal notions of fairness. (15 slides)
+* LECTURE Relation of coutnerfactual fairness to impact parity. Business necessity attributes -- why do we need them? How can we implement them? The relation to the substantive equality of opportunity. Introduction to path-specific causal notions of fairness.
 * PAPER Grgic-Hlaca, N., Redmiles, E. M., Gummadi, K. P., & Weller, A. (2018). Human Perceptions of Fairness in Algorithmic Decision Making. Proceedings of the 2018 World Wide Web Conference on World Wide Web - WWW ’18, 903–912. [LINK](https://doi.org/10.1145/3178876.3186138)
 
 Meeting 7
@@ -44,7 +44,7 @@ Meeting 8
 * FMLB CHAPTER Testing discrimination in practice (121-157). [LINK](https://fairmlbook.org/)
 
 Meeting 9
-* LECTURE What impact is justified and how to measure feature impact (aka input influence, information flow, feature relevance)? A potential objective for preventing discrimination (5 slides)
+* LECTURE What impact is justified and how to measure feature impact (aka input influence, information flow, feature relevance)? A potential objective for preventing discrimination.
 * PAPER Chockler, H., & Halpern, J. Y. (2003). Responsibility and blame: A structural-model approach. IJCAI International Joint Conference on Artificial Intelligence, 22, 147–153. [LINK](https://doi.org/10.1613/jair.1391)
 
 Meeting 10
@@ -52,7 +52,7 @@ Meeting 10
 * PAPER Lipton, Z. C. (2018). The mythos of model interpretability. Communications of the ACM, 61(10), 36–43. [LINK](https://doi.org/10.1145/3233231)
 
 Meeting 11
-* LECTURE Interventional mixtures, their relation to coutnerfactual fairness, and how they preserve impact (15-20 slides)
+* LECTURE Interventional mixtures, their relation to coutnerfactual fairness, and how they preserve impact
 * PAPER Mishra, A., Perello, N., & Grabowicz, P. A. (2021). Towards Explainable and Fair Supervised Learning. The SRML Workshop at ICML’21 and a longer arXiv preprint. 
 
 Meeting 12
