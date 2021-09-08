@@ -14,52 +14,52 @@ Classes: Wednesdays 10:10AM - 11:25AM, Computer Science Bldg rm 140
 
 ## Schedule
 
-Meeting 1
+Meeting 1 (1-Sep)
 * LECTURE Intro to the seminar and legal/normative notions of discrimination.
 
-Meeting 2
+Meeting 2 (15-Sep)
 * FMLB CHAPTER Intro (pages 7-35). [LINK](https://fairmlbook.org/)
 * PAPER (SECTIONS 1-5) Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. ACM Computing Surveys, 54(6). [LINK](https://doi.org/10.1145/3457607)
 
-Meeting 3
+Meeting 3 (22-Sep)
 * FMLB CHAPTER Classification (pages 37-75). [LINK](https://fairmlbook.org/)
 
-Meeting 4
+Meeting 4 (29-Sep)
 * LECTURE Terminology differences between ML and sociology: substantive and formal equality of opportunity, direct and indirect discrimination in sociology. Missing notions of fairness.
 * OPTIONAL PAPER Calders, T., Kamiran, F., & Pechenizkiy, M. (2009). Building classifiers with independency constraints. ICDM Workshops 2009 - IEEE International Conference on Data Mining, 13–18. [LINK](https://doi.org/10.1109/ICDMW.2009.83)
 * PAPER Zafar, M. B., Valera, I., Rodriguez, M. G., Gummadi, K. P., & Weller, A. (2017). From Parity to Preference-based Notions of Fairness in Classification. In I. Guyon, U. V Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, & R. Garnett (Eds.), Advances in Neural Information Processing Systems 30 (pp. 229–239). [LINK](http://arxiv.org/abs/1707.00010)
 
-Meeting 5
+Meeting 5 (6-Oct)
 * FMLB CHAPTER Causality (pages 79-120). [LINK](https://fairmlbook.org/)
 
-Meeting 6
+Meeting 6 (13-Oct)
 * LECTURE Relation of coutnerfactual fairness to impact parity. Business necessity attributes -- why do we need them? How can we implement them? The relation to the substantive equality of opportunity. Introduction to path-specific causal notions of fairness.
 * PAPER Grgic-Hlaca, N., Redmiles, E. M., Gummadi, K. P., & Weller, A. (2018). Human Perceptions of Fairness in Algorithmic Decision Making. Proceedings of the 2018 World Wide Web Conference on World Wide Web - WWW ’18, 903–912. [LINK](https://doi.org/10.1145/3178876.3186138)
 
-Meeting 7
+Meeting 7 (20-Oct)
 * OPTIONAL PAPER Chiappa, S. (2019). Path-Specific Counterfactual Fairness. Proceedings of the AAAI Conference on Artificial Intelligence, 33, 7801–7808. [LINK](https://doi.org/10.1609/aaai.v33i01.33017801)
 * PAPER Wu, Y., Zhang, L., Wu, X., & Tong, H. (2019). PC-Fairness: A unified framework for measuring causality-based fairness. Advances in Neural Information Processing Systems, 32(NeurIPS). [LINK](https://proceedings.neurips.cc/paper/2019/hash/44a2e0804995faf8d2e3b084a1e2db1d-Abstract.html)
 
-Meeting 8
-* FMLB CHAPTER Testing discrimination in practice (121-157). [LINK](https://fairmlbook.org/)
+Meeting 8 (27-Oct)
+* FMLB CHAPTER Testing discrimination in practice (pages 121-157). [LINK](https://fairmlbook.org/)
 
-Meeting 9
+Meeting 9 (3-Nov)
 * LECTURE What impact is justified and how to measure feature impact (aka input influence, information flow, feature relevance)? A potential objective for preventing discrimination.
 * PAPER Chockler, H., & Halpern, J. Y. (2003). Responsibility and blame: A structural-model approach. IJCAI International Joint Conference on Artificial Intelligence, 22, 147–153. [LINK](https://doi.org/10.1613/jair.1391)
 
-Meeting 10
+Meeting 10 (10-Nov)
 * PAPER Janzing, D., Minorics, L., & Blöbaum, P. (2019). Feature relevance quantification in explainable AI: A causal problem. (2015). [LINK](http://arxiv.org/abs/1910.13413)
 * PAPER Lipton, Z. C. (2018). The mythos of model interpretability. Communications of the ACM, 61(10), 36–43. [LINK](https://doi.org/10.1145/3233231)
 
-Meeting 11
+Meeting 11 (17-Nov)
 * LECTURE Interventional mixtures, their relation to coutnerfactual fairness, and how they preserve impact
 * PAPER Mishra, A., Perello, N., & Grabowicz, P. A. (2021). Towards Explainable and Fair Supervised Learning. The SRML Workshop at ICML’21 and a longer arXiv preprint. 
 
-Meeting 12
+Meeting 12 (1-Dec)
 * FMLB CHAPTER A broader view (pages 159-187). [LINK](https://fairmlbook.org/)
 * OPTIONAL FMLB CHAPTER Datasets (pages 187-222). [LINK](https://fairmlbook.org/)
 
-Meeting 13
+Meeting 13 (8-Dec)
 * PAPER D’Amour, A., Srinivasan, H., Atwood, J., Baljekar, P., Sculley, D., & Halpern, Y. (2020). Fairness is not static: Deeper understanding of long term fairness via simulation studies. FAT*2020 - Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, 525–534. [LINK](https://doi.org/10.1145/3351095.3372878)
 * PAPER Jiang, R., Chiappa, S., Lattimore, T., György, A., & Kohli, P. (2019). Degenerate feedback loops in recommender systems. AIES 2019 - Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, (2016), 383–390. [LINK](https://doi.org/10.1145/3306618.3314288)
 
