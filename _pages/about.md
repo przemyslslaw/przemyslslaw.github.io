@@ -30,7 +30,7 @@ Przemyslaw A. Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
 Grant from Volkswagen Foundation for Computational Social Science for 2017-2022 (€843k)\
 Przemyslaw A. Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
 
-* [WICI Data Challenge](http://wici.ca/new/resources/wici-data-challenge-2/) main prize recipients ($10k)\
+* WICI Data Challenge [main prize recipients](https://docs.google.com/file/d/0B0_e6k3kQKEucENGaDBZd0xSU0k/edit?resourcekey=0-EkbTbDNmiXeuXx57U36hSw) ($10k)\
 Real-time visualization of relevant portions of large dynamic networks, 2013\
 Przemyslaw A. Grabowicz, Luca Maria Aiello, Fil Menczer
 
