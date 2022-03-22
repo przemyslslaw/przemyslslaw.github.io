@@ -22,7 +22,7 @@ Through this course students will:
 * practice the usage of tools explaining black-box models,
 * learn to develop models meeting various fairness criteria,
 * learn to develop interpretable machine learning models,
-* develop a proficiency in reasoning about trustworthiness of systems.
+* reason about trustworthiness of systems.
 
 
 ## Textbooks
@@ -80,11 +80,21 @@ Textbooks:
 25. Demographic inference, non-representativeness, and post-stratification models
 26. Final project presentations
 
+<br>
+
 ## Grading
-Preliminary breakdown:
+##### Breakdown:
 * Weekly quizes – 10%
-* Homework Assignments – 45%
-* Final Project – 40%
-* Course Reflection – 5%
+* Homework assignments – 45%
+* Final project – 40%
+* Course reflection – 5%
+
+
+##### Scale
+
+| F    | C      | C+     | B-     | B      | B+     | A-     | A    |
+| ---- | ------ | ------ | ------ | ------ | ------ | ------ | ---- |
+| <70% | 70-73% | 74-77% | 78-81% | 82-85% | 86-89% | 90-92% | >93% |
+
 
 
