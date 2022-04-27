@@ -7,7 +7,6 @@ venue: "University of Massachusetts Amherst"
 date: 2022-09-01
 # location: "Amherst, USA"
 ---
-
 The real-world deployment of machine learning models faces a series of lateral challenges affecting model trustworthiness, such as domain generalization, dataset shifts, causal validity, explainability, fairness, representativeness, and transparency. These challenges become increasingly important in techno-social systems affecting human high-stake decision making, which is often regulated by law. In this course, students will learn techniques for robust model evaluation, model selection, causal discovery, explainable and fair artificial intelligence, and interpretable models. In addition, students will reason about representativeness, transparency, and legal aspects of techno-social systems. The course will review both cutting-edge research and relevant portions of recent open-access textbooks. Coursework includes reading recent research papers, programming assignments, and a final group project. After completing the course, students should be able to develop, investigate, evaluate, and deploy artificial intelligence systems more responsibly.
 
 ## Learning Objectives
@@ -36,7 +35,7 @@ Textbooks:
 <br><br>
 
 ## Grading
-##### Breakdown:
+### Breakdown:
 * Quizzes – 10%
 * Homework assignments – 45%
 * Final group project – 40%
@@ -44,7 +43,7 @@ Textbooks:
 	* Final report - 30%
 * Course reflection – 5%
 
-##### Scale
+### Scale
 
 | F    | D | D+ | C- | C      | C+     | B-     | B      | B+     | A-     | A    |
 | ---- | ------ | ------ | ------ | ------ | ------ | ------ | ---- | ---- | ---- | ---- |
@@ -54,15 +53,15 @@ Fractional scores will be rounded down for the purpose of establishing the final
 The scale for graduate students ends at C, so graduate students with scores of less than 70% will yield an F.
 
 ## Differences between 490F and 690F
-##### Prerequisites for 490F
+### Prerequisites for 490F
 Undergraduate students are required to have the following background: COMPSCI 348 or 383 or 389 with a grade C or better, COMPSCI 240 or STAT 240 or STAT 515 with C or better, MATH 233 and MATH 235 with C or better, and good programming skills in Python (libraries: numpy, pandas, matplotlib, sklearn). The number of available seats may be limited and preference will be given to seniors.
 
-##### Prerequisites for 690F
+### Prerequisites for 690F
 There are not official prerequisites for graduate students of computer science, but the following would be useful:
 * comfort with programming in Python,
 * comfort with introductory data science, introductory machine learning, basic statistics.
 
-##### Expectations and Workload
+### Expectations and Workload
 Students enrolled in 690F will have an expanded set of expectations and higher workload in comparison to students enrolled in 490F:
 - Quizzes and homework assignments will include extra graduate-level questions and problems that will not be required from 490F students. These extra questions will be optional for 490F students and will not negatively impact their grades, i.e., they may impact their grades only positively.
 - Final group project.
@@ -71,7 +70,7 @@ Students enrolled in 690F will have an expanded set of expectations and higher w
 	- Mixed teams, including both 690F and 490F students, are permitted after instructor's explicit approval under the following conditions: i) that the workload is non-overlapping and clearly separated between the 490F and 690F members of such team, ii) that this separation is clearly described in the project proposal, iii) expectations and workload per student are lower for 490F than for 690F members of the team, iv) and the team agrees for the possibility that the final project is graded separately for 490F and 690F members of the team. For instance, 490F students could focus on a literature review or data preprocessing within a project, while 690F students could focus on model development and analysis. Overall, mixed groups will be expected to deliver reports that have scope, depth, and length in between the above two extremes, in proportion to the number of 490F and 690F students on a team.
 - Graduate section meetings. At most a couple of meetings will discuss course concepts, derivations, research projects, or course readings specifically designed for 690F students. These meetings may include quizzes for 690F students that will not be counted towards the grade of 490F students.
 
-##### Overrides
+### Overrides
 Undergraduate students who want to participate in and get credit for 690F instead of 490F are encouraged to request an [override](https://www.cics.umass.edu/ugrad-education/overrides). Such students shall meet the above undergraduate prerequisites for 490F *with grades B+ or higher*.
 
 As the course has interdisciplinary parts, toward statistics and behavioral sciences, graduate students from other departments may enroll by requesting an [override](https://www.cics.umass.edu/ugrad-education/overrides). Prerequisites for non-CS graduate students appear on SPIRE.
