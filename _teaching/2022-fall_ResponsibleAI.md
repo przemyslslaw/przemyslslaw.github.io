@@ -76,9 +76,6 @@ Undergraduate students who want to participate in and get credit for 690F instea
 
 As the course has interdisciplinary parts, toward statistics and behavioral sciences, graduate students from other departments may enroll by requesting an [override](https://www.cics.umass.edu/ugrad-education/overrides). Prerequisites for non-CS graduate students appear on SPIRE.
 
-%%As the course has interdisciplinary parts, toward statistics and behavioral sciences, graduate students from other departments may enroll, if seats are available. Following background is assumed: introductory machine learning or data science (COMPSCI 348 or 383 or 389 or 589 or equivalent), basic statistics (COMPSCI 240 or STAT 240 or PSYCH 240 or OIM 240 or STAT 515 or equivalent), good programming skills in python (libraries: numpy, pandas, matplotlib, sklearn).
-
-Students outside of CS must request [overrides](https://www.cics.umass.edu/overrides) via the on-line form and describe how they meet prerequisites under "additional information". Students who are uncertain whether their background is sufficient should email the instructor attaching their academic transcripts to determine whether they have the appropriate background to be successful in the course.%%
 
 ## Schedule
 1. Introduction
