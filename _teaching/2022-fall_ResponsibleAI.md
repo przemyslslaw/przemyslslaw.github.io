@@ -36,12 +36,15 @@ Textbooks:
 
 ## Grading
 ### Breakdown:
-* Quizzes – 10%
-* Homework assignments – 45%
-* Final group project – 40%
-	* Project proposal - 10%
-	* Final report - 30%
-* Course reflection – 5%
+- Quizzes – 12%
+- Homework assignments – 45%
+- Final group project – 40%
+	- Proposal – 8%
+	- Progress report – 8%
+	- Presentation – 8%
+	- Final report – 16%
+- Course participation – 5%
+- Course reflection – 3%
 
 ### Scale
 
@@ -55,41 +58,46 @@ Fractional scores will be rounded down for the purpose of establishing the final
 ## Schedule
 1. Introduction
 
-* Area: model evaluation, stability, uncertainty, calibration, resilience
-2. Uncertainty in labels, inter-labeler agreement, model evaluation, accuracy and f1 vs measures correcting for chance, inter-rater agreement measures
-3. Model and parameter uncertainty, overparametrization, co-linearity, model stability
-4. Dataset shifts and model resilience
-5. Dataset shift as a novelty, causal representation learning, model uncertainty vs novelty detection and active learning, model uncertainty vs model selection, model uncertainty vs calibration
+Area: model evaluation, stability, uncertainty, calibration, resilience
+2. Underspecification, overparametrization, co-linearity, model stability
+3. Covariate shifts, domain transfer, model confidence, open-world learning
+4. Open-world learning, novelty, and concept drifts
+5. Model evaluation and selection
 
-* Area: causality
-6. Causal graphical models, d-separation, interventions, potential outcomes notation
-7. Counterfactuals, nested counterfactuals
-8. Inverse probability weighting, propensity score matching, doubly robust estimators, augmented inverse probability weighting
-9. Bayesian networks and causal discovery methods based on conditional independence and scoring functions, model selection, information criteria.
+6. Final project introduction
 
-* Area: explainability
-10. Direct and indirect effects
-11. SHAP and its variants
-12. Other explainability measures, causation in the law
+Area: interpretable structured models
+7. Derived models, e.g., opinion formation under social influence
+8. Mixtures of generalized linear models, mixed effect models
 
-* Area: fairness
-13. Introduction to fairness and legal perspective, standard supervised learning, demographic parity and disparate treatment
-14. Other statistical fairness criteria: sufficiency and separation
-15. Causal fairness, path-specific counterfactual fairness
-16. Interventional mixtures
-17. Resilience to discrimination
-18. From interventional mixtures to impact parity, other fairness measures
-19. Feedback-loops vs fairness
+Area: transparency, representativeness, and privacy in techno-social systems
+9. Non-representativeness, post-stratification, demographic inference, differential privacy
+10. Simulations of dynamic processes in networks, agent-based models, causal validity
+11. Disinformation and polarization, echo chambers, biases in social media, information diffusion
 
-* Area: interpretable structured models and representativeness in techno-social systems
-20. Heavy-tail distributions, heterogeneity, agent-based simulations
-21. Generalized linear models, mixed effect models
-22. Mixture models
+Area: statistical fairness counteracting discrimination
+12. Introduction to fairness and legal perspective, standard supervised learning, demographic parity and disparate treatment
+13. Other statistical fairness criteria: error rate, sufficiency and separation, recall parity
+14. Resilience to discrimination, from interventional mixtures to impact parity, other fairness measures
+15. Feedback-loops vs fairness
 
-* Area: transparency, representativeness, and privacy in techno-social systems
-23. Disinformation and polarization, echo chambers, biases in social media, opaqueness
-24. Demographic inference, non-representativeness, and post-stratification models
-25. Differential privacy
+Area: causality
+16. Simpson paradox, causal graphical models, d-separation, randomized experiments, interventions, potential outcomes notation
+17. Counterfactuals, nested counterfactuals, ATE, direct and indirect effects
+18. Inverse probability weighting, propensity score matching, doubly robust estimators, augmented inverse probability weighting
+19. Bayesian networks and causal discovery methods based on conditional independence and scoring functions, model selection revisited
+20. Temporal sense of causality, Autoregressive models, Granger causality, transfer entropy
+
+21. Final project progress discussions
+
+Area: fairness vs explainability
+22. Causal fairness, path-specific counterfactual fairness
+23. Interventional mixtures
+
+Area: explainability
+24. SHAP and its variants
+25. Other explainability measures, causation in the law
+
 26. Final project presentations
 
 ## Policies
