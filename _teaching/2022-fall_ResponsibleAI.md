@@ -37,7 +37,7 @@ Textbooks:
 ## Grading
 ### Breakdown:
 - Quizzes – 12%
-- Homework assignments – 45%
+- Homework assignments – 40%
 - Final group project – 40%
 	- Proposal – 8%
 	- Progress report – 8%
