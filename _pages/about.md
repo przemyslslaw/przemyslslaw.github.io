@@ -12,12 +12,24 @@ I am a Research Assistant Professor at the [College of Information and Computer 
 
 My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems.
 
-Research areas: *fair and explainable machine learning, computational social science, social media, social networks, causality*.
+Research areas: *fair and explainable machine learning, computational social science, social media, social networks, causality, open-world learning*.
 
 <!--
 News
 ======
  -->
+
+Research lab
+======
+I'm heading Socially Intelligent Media and Systems research lab at the [College of Information and Computer Sciences](https://www.cics.umass.edu/).
+
+<img style="float: right;" src="/images/sims.png"; width: 150px>
+
+Graduate students:
+* Xi Chen
+* Nicholas Perello
+* Stephen Scarano
+
 
 Grants and prizes
 ======
