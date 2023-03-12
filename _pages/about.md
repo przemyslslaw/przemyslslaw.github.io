@@ -22,9 +22,9 @@ News
 Research lab
 ======
 <!-- <img style="float: right;" src="/images/sims.png"; width: 150px> -->
-![image](/images/sims.png){: .align-right width="80%" }
+![image](/images/sims.png){: .align-right width="20%" }
 
-I am heading the SIMS (Socially Intelligent Media and Systems) lab at the [CICS](https://www.cics.umass.edu/), which currently includes the following graduate students:
+I am heading the SIMS (Socially Intelligent Media and Systems) lab at the [CICS](https://www.cics.umass.edu/), which includes these graduate students:
 * Xi Chen
 * Nicholas Perello
 * Stephen Scarano
