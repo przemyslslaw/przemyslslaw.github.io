@@ -26,7 +26,7 @@ I'm heading the SIMS (Socially Intelligent Media and Systems) lab at the [CICS](
 <!-- <img style="float: right;" src="/images/sims.png"; width: 150px> -->
 ![image](/images/sims.png){: .align-right}
 
-Graduate students belonging to the lab:
+I am fortunate to work with graduate students:
 * Xi Chen
 * Nicholas Perello
 * Stephen Scarano
