@@ -21,11 +21,12 @@ News
 
 Research lab
 ======
-I'm heading Socially Intelligent Media and Systems research lab at the [College of Information and Computer Sciences](https://www.cics.umass.edu/).
+I'm heading the SIMS lab (Socially Intelligent Media and Systems) at the [CICS](https://www.cics.umass.edu/).
 
-<img style="float: right;" src="/images/sims.png"; width: 150px>
+<!-- <img style="float: right;" src="/images/sims.png"; width: 150px> -->
+![image][/images/sims.png]
 
-Graduate students:
+Graduate students belonging to the lab:
 * Xi Chen
 * Nicholas Perello
 * Stephen Scarano
