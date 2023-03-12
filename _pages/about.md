@@ -21,10 +21,10 @@ News
 
 Research lab
 ======
-I'm heading the SIMS lab (Socially Intelligent Media and Systems) at the [CICS](https://www.cics.umass.edu/).
+I'm heading the SIMS (Socially Intelligent Media and Systems) lab at the [CICS](https://www.cics.umass.edu/).
 
-<img style="float: right;" src="/images/sims.png"; width: 150px>
-<!-- ![image](/images/sims.png){: .align-right} -->
+<!-- <img style="float: right;" src="/images/sims.png"; width: 150px> -->
+![image](/images/sims.png){: .align-right}
 
 Graduate students belonging to the lab:
 * Xi Chen
