@@ -23,12 +23,13 @@ Research lab
 ======
 <!-- <img style="float: right;" src="/images/sims.png"; width: 150px> -->
 ![image](/images/sims.png){: .align-right width="18%" }
-![image](/images/kdl.png){: .align-right width="18%" }
 
 I am heading the SIMS (Socially Intelligent Media and Systems) lab at the [CICS](https://www.cics.umass.edu/), which includes these graduate students:
 * Xi Chen
 * Nicholas Perello
 * Stephen Scarano
+
+![image](/images/kdl.png){: .align-right width="18%" }
 
 I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery Lab).
 
