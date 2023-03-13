@@ -19,7 +19,7 @@ News
 ======
  -->
 
-Research lab
+Research labs
 ======
 <!-- <img style="float: right;" src="/images/sims.png"; width: 150px> -->
 ![image](/images/sims.png){: .align-right width="18%" }
