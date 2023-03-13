@@ -31,7 +31,7 @@ I am heading the SIMS (Socially Intelligent Media and Systems) lab at the [CICS]
 
 ![image](/images/kdl.png){: .align-right width="18%" }
 
-I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery Lab), where I work with:
+I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery Lab), where I work with these graduate students:
 * Kaleigh Clary
 * Justin Clarke
 * Andrew Zane
