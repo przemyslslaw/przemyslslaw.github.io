@@ -17,7 +17,7 @@ Research areas: *fair and explainable machine learning, computational social sci
 News
 ======
 
-* UMass Amherst released [an article](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world) quoting me and my graduate course on [Responsible Artificial Intelligence](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI). In today's globalized world, we need to design techno-social systems with social responsibility in mind.
+* UMass Amherst released [an article](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world) quoting me and my graduate course on [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI). In today's globalized world, we need to design techno-social systems with social responsibility in mind.
 * In 2022 I instructed for the first time my [Responsible Artificial Intelligence](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI) course.
 * Our paper [Marrying Fairness and Explainability in Supervised Learning]() was accepted to the FAccT'22 conference. Check out the [recorded presentation](https://www.youtube.com/watch?v=SA86eimWIcw).
 * In 2022 we successfully organized the NLP competition [SemEval-2022 Task 8: Multilingual news article similarity](https://aclanthology.org/2022.semeval-1.155/) that attracted over 30 research teams and released the largest [labeled multilingual dataset of international news articles](https://zenodo.org/record/6507872).
@@ -59,6 +59,7 @@ Przemyslaw A. Grabowicz, Luca Maria Aiello, Fil Menczer
 Press coverages
 ======
 
+- UMass Amherst, Bridging ethics and technology in a fast-changing world, 2023, [umass.edu](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world)
 - El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
 - El Mundo, Los entresijos de Twitter, 2011, [elmundo.es](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
 - Extensive coverage of the Observatory on Social Media, running our [dynamic network visualizations](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
