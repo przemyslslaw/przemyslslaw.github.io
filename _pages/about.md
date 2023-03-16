@@ -65,7 +65,7 @@ Press coverages
 - Extensive coverage of the Observatory on Social Media, running our [dynamic network visualizations](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
 
 
-[![image](/images/rai.jpg){: .align-center width="100%" }]((https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI))
+[![image](/images/rai.jpg){: .align-center width="100%" }](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI)
 Image generously contributed by [Mohamed Hassan](https://pxhere.com/en/photo/1638452).
 
 <!--
