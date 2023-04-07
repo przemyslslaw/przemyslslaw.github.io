@@ -2,9 +2,9 @@
 title: "Responsible Artificial Intelligence"
 collection: teaching
 type: "COMPSCI 690F"
-permalink: /teaching/2022-fall_ResponsibleAI
+permalink: /teaching/2023-fall_ResponsibleAI
 venue: "University of Massachusetts Amherst"
-date: 2022-09-01
+date: 2023-09-01
 # location: "Amherst, USA"
 ---
 
