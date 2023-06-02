@@ -32,7 +32,7 @@ I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery L
 * Justin Clarke
 * Andrew Zane
 
-News and updates
+News
 ======
 
 * I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
