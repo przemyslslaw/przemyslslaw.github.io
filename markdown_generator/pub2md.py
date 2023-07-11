@@ -34,6 +34,13 @@
 import pandas as pd
 
 
+# output properties
+# terminal_columns, terminal_rows = pd.util.terminal.get_terminal_size()
+# pd.set_option( "display.width", terminal_columns )
+# pd.set_option( 'max_columns', terminal_columns/9 )
+pd.set_option('display.max_columns', 99)
+pd.set_option( "display.width", 340 )
+
 # ## Import TSV
 # 
 # Pandas makes this easy with the read_csv function. We are using a TSV, so we specify the separator as a tab, or `\t`.
@@ -43,9 +50,12 @@ import pandas as pd
 # In[3]:
 
 
-publications = pd.read_csv("publications.csv", sep=",", quotechar='"', encoding = "utf-8", skipinitialspace=True, header=0)
-# publications
+publications = pd.read_csv("publications.csv", sep=",", quotechar='"', encoding = "utf-8", skipinitialspace=True, header=0, index_col=False)
 
+
+print(publications)
+# import sys
+# sys.exit()
 
 # ## Escape special characters
 # 
