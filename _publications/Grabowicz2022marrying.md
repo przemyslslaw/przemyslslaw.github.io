@@ -5,6 +5,7 @@ date: 2022-01-01
 year: 2022
 venue: 'ACM Conference on Fairness, Accountability, and Transparency'
 paperurl: 'https://arxiv.org/abs/2204.02947'
-resourceslug: no_resource
+resourceurl: 'https://github.com/social-info-lab/FaX-AI'
+resourceslug: code
 authors: 'P.A. Grabowicz, N. Perello, A. Mishra'
 ---
