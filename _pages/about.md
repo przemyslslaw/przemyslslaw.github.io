@@ -23,14 +23,15 @@ Research labs
 I am heading the SIMS (Socially Intelligent Media and Systems) lab at the [CICS](https://www.cics.umass.edu/), which includes these graduate students:
 * Xi Chen
 * Nicholas Perello
+* Andrew Yuan
 * Stephen Scarano
+* Vijayalakshmi Vasudevan
 
 ![image](/images/kdl.png){: .align-right width="18%" }
 
 I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery Lab), where I work with these graduate students:
 * Kaleigh Clary
 * Justin Clarke
-* Andrew Zane
 
 News
 ======
