@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst.
+I am a Research Assistant Professor at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, where I lead the [EQUATE](https://groups.cs.umass.edu/equate/) initiative and occasionally post on its [blog](https://groups.cs.umass.edu/equate-ml/category/equate).
 
 My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems.
 
