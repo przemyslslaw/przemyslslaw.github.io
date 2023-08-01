@@ -47,6 +47,14 @@ News
 Grants and prizes
 ======
 
+* Interdisciplinary Research Grant "[Political Misinformation and Disinformation Through Social Media Biases  ]"(https://www.umass.edu/social-sciences/news/irg-political-misinformation-polls) \
+Grant from UMass Amherst for 2023-2024 (funds a graduate RA)\
+Przemyslaw Grabowicz, Monideepa Tarafgar, Jennifer Lundquist, Anthony Paik, JungHwan Yang, Mattia Samory
+
+* Interdisciplinary Research Grant "[Analyzing cross-country bias in news coverage of international conflicts and disasters](https://www.cics.umass.edu/news/six-cics-faculty-selected-receive-umass-interdisciplinary-research-grants)" \
+Grant from UMass Amherst for 2023-2024 (funds a graduate RA)\
+Przemyslaw Grabowicz, Paul Musgrave, Brendan O'Connor, Ethan Zuckerman
+
 * Project "Agendas and frames in a global pandemic: Evolution of cross-country media coverage"\
 Supplementary grant from Volkswagen Foundation for 2021-2022 (€120k)\
 Przemyslaw A. Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
