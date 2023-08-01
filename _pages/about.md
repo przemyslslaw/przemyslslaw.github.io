@@ -47,7 +47,7 @@ News
 Grants and prizes
 ======
 
-* Interdisciplinary Research Grant "[Political Misinformation and Disinformation Through Social Media Biases  ]"(https://www.umass.edu/social-sciences/news/irg-political-misinformation-polls) \
+* Interdisciplinary Research Grant "[Political Misinformation and Disinformation Through Social Media Biases  ](https://www.umass.edu/social-sciences/news/irg-political-misinformation-polls)" \
 Grant from UMass Amherst for 2023-2024 (funds a graduate RA)\
 Przemyslaw Grabowicz, Monideepa Tarafgar, Jennifer Lundquist, Anthony Paik, JungHwan Yang, Mattia Samory
 
