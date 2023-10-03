@@ -24,6 +24,7 @@ I am heading the SIMS (Socially Intelligent Media and Systems) lab at the [CICS]
 * Xi Chen
 * Nicholas Perello
 * Andrew Yuan
+* Chhandak Bagchi
 * Stephen Scarano
 * Vijayalakshmi Vasudevan
 
