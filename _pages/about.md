@@ -14,7 +14,7 @@ I am a Research Assistant Professor at the [College of Information and Computer 
 
 My research contributes statistical methods to **understand** and **augment** public opinion formation within our digital information society's systems. My endeavors are geared towards ensuring that tomorrow's AI and social media are representative, fair, explainable, and ready to interact with our open world for public good.
 * To deepen our **understanding** of public opinion, I innovate statistical methods for extracting representative signals about the public from social media and news media. 
-* To **augment** public opinion formation, I pioneer representative social media designs facilitating political discourse and machine learning methods adhering to legal provisions, e.g., by preventing discrimination, while providing transparent AI explanations. 
+* To **augment** public opinion formation, I pioneer representative social media designs facilitating political discourse and machine learning methods adhering to legal provisions, e.g., by preventing discrimination, while providing AI explanations. 
 
 
 
