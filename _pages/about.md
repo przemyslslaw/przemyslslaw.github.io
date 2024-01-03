@@ -10,7 +10,16 @@ redirect_from:
 
 I am a Research Assistant Professor at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, where I lead the [EQUATE](https://groups.cs.umass.edu/equate/) initiative and occasionally write for its [blog](https://groups.cs.umass.edu/equate-ml/category/equate/?tag=article).
 
-My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems.
+<!-- My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems. -->
+
+My research contributes statistical methods to understand and augment public opinion formation within our digital information society's systems. My endeavors are geared towards ensuring that the social media and Al of tomorrow are representative, fair, explainable, and ready to interact with our open world for public good.
+
+* To deepen our understanding of public opinion, I innovate statistical methods for extracting representative signals about the public from social media and news media. 
+
+* To augment public opinion formation, recognizing the challenges of misinformation, bias, and polarization for modern democracies, I pioneer representative social media designs facilitating political discourse. Simultaneously, I develop machine learning methods to ensure automated decision-making adheres to legal provisions, preventing discrimination while providing transparent AI explanations. 
+
+
+
 
 Research areas: *fair and explainable machine learning, computational social science, social media, social networks, causality, open-world learning*.
 
@@ -21,12 +30,12 @@ Research labs
 ![image](/images/sims.png){: .align-right width="18%" }
 
 I am heading the SIMS (Socially Intelligent Media and Systems) lab at the [CICS](https://www.cics.umass.edu/), which includes these graduate students:
-* Xi Chen
-* Nicholas Perello
-* Andrew Yuan
-* Chhandak Bagchi
-* Stephen Scarano
-* Vijayalakshmi Vasudevan
+* [Xi Chen](https://underline.io/speakers/196520-xi-chen)
+* [Nicholas Perello](https://nperello.github.io/)
+* [Andrew Yuan](https://www.linkedin.com/in/andrewwyuan/)
+* [Chhandak Bagchi](https://people.umass.edu/cbagchi/)
+* [Stephen Scarano](https://stephentemp.github.io/)
+* [Vijayalakshmi Vasudevan](https://www.linkedin.com/in/vijayalakshmi-vasudevan-b95725156/)
 
 ![image](/images/kdl.png){: .align-right width="18%" }
 
