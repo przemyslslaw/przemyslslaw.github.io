@@ -25,7 +25,7 @@ Research labs
 <!-- <img style="float: right;" src="/images/sims.png"; width: 150px> -->
 ![image](/images/sims.png){: .align-right width="18%" }
 
-I am heading the SIMS (Socially Intelligent Media and Systems) lab at the [CICS](https://www.cics.umass.edu/), which includes these graduate students:
+I am heading the SIMS (Socially Intelligent Media and Systems) lab, which includes these graduate students:
 * [Xi Chen](https://underline.io/speakers/196520-xi-chen)
 * [Nicholas Perello](https://nperello.github.io/)
 * [Andrew Yuan](https://www.linkedin.com/in/andrewwyuan/)
