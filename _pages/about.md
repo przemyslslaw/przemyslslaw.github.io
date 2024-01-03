@@ -17,8 +17,6 @@ My research contributes statistical methods to **understand** and **augment** pu
 * To **augment** public opinion formation, I pioneer representative social media designs facilitating political discourse and machine learning methods adhering to legal provisions, e.g., by preventing discrimination, while providing AI explanations. 
 
 
-
-
 Research areas: *fair and explainable machine learning, data science, computational social science, social media, network science, causality, open-world learning*.
 
 
