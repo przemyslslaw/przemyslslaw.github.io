@@ -19,7 +19,7 @@ My research contributes statistical methods to **understand** and **augment** pu
 
 
 
-Research areas: *fair and explainable machine learning, computational social science, social media, social networks, causality, open-world learning*.
+Research areas: *fair and explainable machine learning, data science, computational social science, social media, network science, causality, open-world learning*.
 
 
 Research labs
