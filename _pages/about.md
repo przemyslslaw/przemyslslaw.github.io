@@ -36,8 +36,8 @@ I am heading the SIMS (Socially Intelligent Media and Systems) lab, which includ
 ![image](/images/kdl.png){: .align-right width="18%" }
 
 I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery Lab), where I work with these graduate students:
-* Kaleigh Clary
-* Justin Clarke
+* [Kaleigh Clary](https://people.cs.umass.edu/~kclary/)
+* [Justin Clarke](https://people.cs.umass.edu/~jclarke/)
 
 News
 ======
