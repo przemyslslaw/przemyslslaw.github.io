@@ -34,7 +34,6 @@ I am heading the SIMS (Socially Intelligent Media and Systems) lab, which includ
 We also collaborate with MS students:
 * [Stephen Scarano](https://stephentemp.github.io/)
 * [Vijayalakshmi Vasudevan](https://www.linkedin.com/in/vijayalakshmi-vasudevan-b95725156/)
-* 
 
 ![image](/images/kdl.png){: .align-right width="18%" }
 
