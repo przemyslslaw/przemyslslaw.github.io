@@ -25,19 +25,23 @@ Research labs
 <!-- <img style="float: right;" src="/images/sims.png"; width: 150px> -->
 ![image](/images/sims.png){: .align-right width="18%" }
 
-I am heading the SIMS (Socially Intelligent Media and Systems) lab, which includes these graduate students:
+I am heading the SIMS (Socially Intelligent Media and Systems) lab, which includes the following PhD students:
 * [Xi Chen](https://underline.io/speakers/196520-xi-chen)
 * [Nicholas Perello](https://nperello.github.io/)
 * [Andrew Yuan](https://www.linkedin.com/in/andrewwyuan/)
 * [Chhandak Bagchi](https://people.umass.edu/cbagchi/)
+
+We also collaborate with MS students:
 * [Stephen Scarano](https://stephentemp.github.io/)
 * [Vijayalakshmi Vasudevan](https://www.linkedin.com/in/vijayalakshmi-vasudevan-b95725156/)
 
 ![image](/images/kdl.png){: .align-right width="18%" }
 
-I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery Lab), where I work with these graduate students:
+I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery Lab), where I work with these PhD students:
 * [Kaleigh Clary](https://people.cs.umass.edu/~kclary/)
 * [Justin Clarke](https://people.cs.umass.edu/~jclarke/)
+
+
 
 News
 ======

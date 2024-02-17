@@ -1,5 +1,5 @@
 pub_date, authors, title, venue, url_slug, resource_slug, paper_url, resource_url
-2024-01-01, "Xi Chen, S. Hale, D. Jurgens, M. Samory, E. Zuckerman, and P.A. Grabowicz", "Global News Synchrony During the Start of the COVID-19 Pandemic", "The Web Conference", pdf, no_resource, no_url, no_url
+2024-01-01, "Xi Chen, S. Hale, D. Jurgens, M. Samory, E. Zuckerman, and P.A. Grabowicz", "Global News Synchrony During the Start of the COVID-19 Pandemic", "The Web Conference", no_resource, no_resource, no_url, no_url
 2023-01-01, "P.A. Grabowicz, C. Pereyda, K. Clary, R. Stern, T.E. Boult, D. Jensen, L. B. Holder", "Novelty in 2D CartPole Domain", edited volume "A Unifying Framework for Formal Theories of Novelty", pdf, no_resource, no_url, no_url
 2023-01-01, "P.A. Grabowicz, N. Perello, Y. Zick", "Towards an AI Accountability Policy", "Comment on FR Doc # 2023-07776 Posted by the National Telecommunications and Information Administration", pdf, no_resource, "https://downloads.regulations.gov/NTIA-2023-0005-1424/attachment_1.pdf", no_url
 2023-01-01, "P.A. Grabowicz, N. Perello, K. Takatsu", "Learning from Discriminatory Training Data", "AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES)", arxiv, code, "https://arxiv.org/abs/1912.08189", "https://github.com/social-info-lab/FaX-AI"
