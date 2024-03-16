@@ -1,6 +1,9 @@
 pub_date, authors, title, venue, url_slug, resource_slug, paper_url, resource_url
+2024-01-01, "S. Scarano, V. Vasudevan, M. Samory, J. Yang, and P.A. Grabowicz", "Analyzing Support for U.S. Presidential Candidates in Social Polls", "JQD:DM (ICWSM'24)", no_resource, no_resource, no_url, no_url
+2024-01-01, "Xi Chen, M. Samory, S. Hale, D. Jurgens, and P.A. Grabowicz", "A Multilingual Similarity Dataset for News Article Frame", "ICWSM'24", no_resource, no_resource, no_url, no_url
 2024-01-01, "Xi Chen, S. Hale, D. Jurgens, M. Samory, E. Zuckerman, and P.A. Grabowicz", "Global News Synchrony During the Start of the COVID-19 Pandemic", "The Web Conference", no_resource, no_resource, no_url, no_url
-2024-01-01, "Ch. Bagchi, E. Malmi, P.A. Grabowicz", "Promotion of Scientific Publications on ArXiv and X Is on the Rise and Impacts Citations", "review", arxiv, code, "https://arxiv.org/abs/2401.11116", no_url
+2024-01-01, "S. Scarano, V. Vasudevan, M. Samory, K. Yang, J. Yang, and P.A. Grabowicz", "Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs", "ICWSM'24 R&R", no_resource, no_resource, no_url, no_url
+2024-01-01, "Ch. Bagchi, E. Malmi, P.A. Grabowicz", "Effects of Research Paper Promotion via ArXiv and X", "ICWSM'24 R&R", arxiv, code, "https://arxiv.org/abs/2401.11116", no_url
 2023-01-01, "P.A. Grabowicz, C. Pereyda, K. Clary, R. Stern, T.E. Boult, D. Jensen, L. B. Holder", "Novelty in 2D CartPole Domain", edited volume "A Unifying Framework for Formal Theories of Novelty", link, no_resource, "https://link.springer.com/chapter/10.1007/978-3-031-33054-4_2", no_url
 2023-01-01, "P.A. Grabowicz, N. Perello, Y. Zick", "Towards an AI Accountability Policy", "Comment on FR Doc # 2023-07776 Posted by the National Telecommunications and Information Administration", pdf, no_resource, "https://downloads.regulations.gov/NTIA-2023-0005-1424/attachment_1.pdf", no_url
 2023-01-01, "P.A. Grabowicz, N. Perello, K. Takatsu", "Learning from Discriminatory Training Data", "AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES)", arxiv, code, "https://arxiv.org/abs/1912.08189", "https://github.com/social-info-lab/FaX-AI"
