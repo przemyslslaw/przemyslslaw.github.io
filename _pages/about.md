@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, where I lead the [EQUATE](https://groups.cs.umass.edu/equate/) initiative and occasionally write for its [blog](https://groups.cs.umass.edu/equate-ml/category/equate/?tag=article).
+I am a Research Assistant Professor at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, where I lead the [EQUATE](https://groups.cs.umass.edu/equate/) initiative and occasionally write for the Uncommon Good [blog](https://uncommongood.substack.com/).
 
 <!-- My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems. -->
 
@@ -48,7 +48,7 @@ I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery L
 
 News
 ======
-
+* Out of our four submissions to ICWSM (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!!
 * I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
 * I was honored to give a [talk](https://www.youtube.com/watch?v=uCd9UcbbVyc&t=5730s) about a path towards fair and explainable automated decision-making and to participate in a [panel](https://youtu.be/CxLQDENykRk?t=10903) at a Responsible AI [workshop](https://sites.google.com/view/rainscmu) at Carnegie Mellon University. I outline our vision in [these two slides](https://twitter.com/przemyslslaw/status/1658956246593024001/photo/1).
 * Our manuscript [Learning from Discriminatory Training Data](https://arxiv.org/pdf/1912.08189.pdf) has been accepted to AIES'23. We define the problem of discrimination prevention in machine learning as a dataset shift and propose a solution building on our prior work "Marrying Fairness and Explainability".
