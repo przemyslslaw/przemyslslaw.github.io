@@ -48,6 +48,7 @@ I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery L
 
 News
 ======
+* Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.)
 * Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!!
 * I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
 * I was honored to give a [talk](https://www.youtube.com/watch?v=uCd9UcbbVyc&t=5730s) about a path towards fair and explainable automated decision-making and to participate in a [panel](https://youtu.be/CxLQDENykRk?t=10903) at a Responsible AI [workshop](https://sites.google.com/view/rainscmu) at Carnegie Mellon University. I outline our vision in [these two slides](https://twitter.com/przemyslslaw/status/1658956246593024001/photo/1).
