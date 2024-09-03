@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, where I lead the [EQUATE](https://groups.cs.umass.edu/equate/) initiative and occasionally write for the Uncommon Good [blog](https://uncommongood.substack.com/).
+
+I'm an Assistant Professor of Computer Science at [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/). I head the [SIMS lab](#research-labs), the [EQUATE](https://groups.cs.umass.edu/equate/) initiative, and [socialpolls.org](https://socialpolls.org/) website. Occasionally I write for the [Uncommon Good blog](https://uncommongood.substack.com/).
+
+👩🏼‍💻🧑🏿‍💻 **I'm hiring PhD students at University College Dublin! Email me if you are interested!** 👩🏽‍🎓👨🏻‍🎓
 
 <!-- My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems. -->
 
@@ -31,12 +34,16 @@ I am heading the SIMS (Socially Intelligent Media and Systems) lab, which includ
 * [Andrew Yuan](https://www.linkedin.com/in/andrewwyuan/)
 * [Chhandak Bagchi](https://people.umass.edu/cbagchi/)
 
-We also collaborate with MS students:
-* [Stephen Scarano](https://stephentemp.github.io/)
+We collaborate with MS students:
+* [Vishal Kalakonnavar](https://www.linkedin.com/in/vishal-kalakonnavar/)
+* [Yashika Kuckian](https://www.linkedin.com/in/yashika-kuckian-687152214)
+* [Kedarnath Kashinath Chimmad](https://www.linkedin.com/in/kedarnathchimmad/)
+* [Mayank Bumb](https://www.linkedin.com/in/mayankbumb57/) 
+
+<!-- * [Stephen Scarano](https://stephentemp.github.io/)
 * [Vijayalakshmi Vasudevan](https://www.linkedin.com/in/vijayalakshmi-vasudevan-b95725156/)
 * [Jash Mitesh Dalal](https://scholar.google.com/citations?user=K9jRPeMAAAAJ&hl=en)
-* [Vishal Kalakonnavar](https://www.linkedin.com/in/vishal-kalakonnavar/)
-* [Mayank Bumb](https://www.linkedin.com/in/mayankbumb57/)
+ -->
 
 ![image](/images/kdl.png){: .align-right width="18%" }
 
@@ -48,6 +55,7 @@ I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery L
 
 News
 ======
+* Our research on politically-relevant social polls has been [covered by various media outlets](https://socialpolls.org/#/media), including El País, Fox network, and Phys.org!
 * Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.)
 * Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!!
 * I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
