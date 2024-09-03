@@ -13,11 +13,9 @@ I'm an Assistant Professor of Computer Science at [University College Dublin](ht
 
 👩🏼‍💻🧑🏿‍💻👨‍💻 
 {: style="color:gray; font-size: 130%; text-align: center;"}
-
 **I'm hiring PhD students at University College Dublin! 
 Email me if you are interested!** 
 {: style="color:gray; font-size: 130%; text-align: center;"}
-
 👩‍🎓👩🏽‍🎓👨🏻‍🎓
 {: style="color:gray; font-size: 130%; text-align: center;"}
 
