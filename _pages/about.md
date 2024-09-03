@@ -69,6 +69,10 @@ News
 Grants and prizes
 ======
 
+* "Collaborative Research: SaTC: CORE: Small: [Identifying the Demographic Representativeness of Social Media Polls](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2432050&HistoricalAwards=false)"\
+Grant from the U.S. National Science Foundation for 2024-2026 ($400k)\
+Przemyslaw Grabowicz, Brendan O'Connor, JungHwan Yang, Filippo Menczer
+
 * Interdisciplinary Research Grant "[Political Misinformation and Disinformation Through Social Media Biases  ](https://www.umass.edu/social-sciences/news/irg-political-misinformation-polls)" \
 Grant from UMass Amherst for 2023-2024 (funds a graduate RA)\
 Przemyslaw Grabowicz, Monideepa Tarafgar, Jennifer Lundquist, Anthony Paik, JungHwan Yang, Mattia Samory
@@ -79,15 +83,15 @@ Przemyslaw Grabowicz, Paul Musgrave, Brendan O'Connor, Ethan Zuckerman
 
 * Project "Agendas and frames in a global pandemic: Evolution of cross-country media coverage"\
 Supplementary grant from Volkswagen Foundation for 2021-2022 (€120k)\
-Przemyslaw A. Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
+Przemyslaw Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
 
 * Project "[Current Affairs 2.0: Agenda Setting in the European Union](http://www.euagendas.org/)"\
 Grant from Volkswagen Foundation for Computational Social Science for 2017-2022 (€843k)\
-Przemyslaw A. Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
+Przemyslaw Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
 
 * WICI Data Challenge [main prize recipients](https://docs.google.com/file/d/0B0_e6k3kQKEucENGaDBZd0xSU0k/edit?resourcekey=0-EkbTbDNmiXeuXx57U36hSw) ($10k)\
 Real-time visualization of relevant portions of large dynamic networks, 2013\
-Przemyslaw A. Grabowicz, Luca Maria Aiello, Fil Menczer
+Przemyslaw Grabowicz, Luca Maria Aiello, Fil Menczer
 
 
 Press coverages
