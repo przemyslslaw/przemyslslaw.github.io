@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm an Assistant Professor of Computer Science at [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/). I head the [SIMS lab](#research-labs), the [EQUATE](https://groups.cs.umass.edu/equate/) initiative, and [socialpolls.org](https://socialpolls.org/) website. Occasionally I write for the [Uncommon Good blog](https://uncommongood.substack.com/).
+I'm an Assistant Professor of Computer Science at [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/). I head the [SIMS lab](#research-labs), the [EQUATE](https://groups.cs.umass.edu/equate/) initiative, and the website [socialpolls.org](https://socialpolls.org/). Occasionally I write for the [Uncommon Good blog](https://uncommongood.substack.com/).
 
 👩🏼‍💻🧑🏿‍💻 **I'm hiring PhD students at University College Dublin! Email me if you are interested!** 👩🏽‍🎓👨🏻‍🎓
 
@@ -55,7 +55,7 @@ I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery L
 
 News
 ======
-* Our research on politically-relevant social polls has been [covered by various media outlets](https://socialpolls.org/#/media), including El País, Fox network, and Phys.org!
+* Our research on election polls on social media has been [covered by various media outlets](https://socialpolls.org/#/media), including El País, Fox network, and Phys.org!
 * Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.)
 * Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!!
 * I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
@@ -93,10 +93,11 @@ Przemyslaw A. Grabowicz, Luca Maria Aiello, Fil Menczer
 Press coverages
 ======
 
+- Coverage by [various media outlets](https://socialpolls.org/#/media), including El País, Fox network, and Phys.org of our research on election polls on social media ([socialpolls.org](https://socialpolls.org/)).
 - UMass Amherst, Bridging ethics and technology in a fast-changing world, 2023, [umass.edu](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world)
 - El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
 - El Mundo, Los entresijos de Twitter, 2011, [elmundo.es](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
-- Extensive coverage of the Observatory on Social Media, running our [dynamic network visualizations](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
+- Extensive coverage by outlets such as WSJ and NYT of the research for the Observatory on Social Media, which used my [fast dynamic network visualization algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
 
 
 [![image](/images/rai.jpg){: .align-center width="100%" }](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI)
