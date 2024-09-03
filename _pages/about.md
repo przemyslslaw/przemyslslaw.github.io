@@ -11,7 +11,11 @@ redirect_from:
 
 I'm an Assistant Professor of Computer Science at [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/). I head the [SIMS lab](#research-labs), the [EQUATE](https://groups.cs.umass.edu/equate/) initiative, and the website [socialpolls.org](https://socialpolls.org/). Occasionally I write for the [Uncommon Good blog](https://uncommongood.substack.com/).
 
-👩🏼‍💻🧑🏿‍💻 **I'm hiring PhD students at University College Dublin! Email me if you are interested!** 👩🏽‍🎓👨🏻‍🎓
+👩🏼‍💻🧑🏿‍💻👨‍💻
+{: style="color:gray; font-size: 150%; text-align: center;"}
+**I'm hiring PhD students at University College Dublin! Email me if you are interested!** 
+👩‍🎓👩🏽‍🎓👨🏻‍🎓
+{: style="color:gray; font-size: 150%; text-align: center;"}
 
 <!-- My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems. -->
 

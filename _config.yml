@@ -84,18 +84,19 @@ author:
   name             : "Przemyslaw A. Grabowicz"
   avatar           : "profile.png"
   bio              : "Assistant Professor of Computer Science"
-  location         : #"Amherst"
-  employer         : "UMass Amherst"
+  bluesky          : "przemyslslaw" # Replace this with you Bluesky username
+  location         : Dublin
+  employer         : "UCD, UMass Amherst"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?hl=en&user=QRXQ_GYAAAAJ"
-  email            : my surname at cs.umass.edu
+  email            : przemek.grabowicz at ucd.ie, my surname at cs.umass.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/przemyslaw.grabowicz
   foursquare       :
   github           : "social-info-lab"
   google_plus      :
@@ -107,7 +108,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/213683/pms
   steam            :
   tumblr           :
   twitter          : "przemyslslaw"
