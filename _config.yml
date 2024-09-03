@@ -85,7 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor of Computer Science"
   bluesky          : "przemyslslaw" # Replace this with you Bluesky username
-  location         : Dublin
+  location         :
   employer         : "UCD, UMass Amherst"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?hl=en&user=QRXQ_GYAAAAJ"
@@ -96,7 +96,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/przemyslaw.grabowicz
+  facebook         : przemyslaw.grabowicz
   foursquare       :
   github           : "social-info-lab"
   google_plus      :
@@ -104,11 +104,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/przemyslaw-grabowicz-7b41669/
+  linkedin         : przemyslaw-grabowicz-7b41669
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/213683/pms
+  stackoverflow    : 213683/pms
   steam            :
   tumblr           :
   twitter          : "przemyslslaw"
