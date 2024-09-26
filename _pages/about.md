@@ -27,6 +27,31 @@ My research contributes statistical methods to **understand** and **augment** pu
 Research areas: *fair and explainable machine learning, data science, computational social science, social media, network science, causality, open-world learning*.
 
 
+News
+======
+* Science published our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981), and an [editorial](https://www.science.org/doi/epdf/10.1126/science.adt2983)+[article](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt ) discussing its implications. We call into question key conclusions of a widely reported [Science paper](https://www.science.org/doi/10.1126/science.abp9364) that suggested Facebook's news feed algorithm prevents misinformation.
+* Our research on election polls on social media has been [covered by various media outlets](https://socialpolls.org/#/media), including El País, Fox network, and Phys.org!
+* Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.)
+* Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!!
+* I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
+* I was honored to give a [talk](https://www.youtube.com/watch?v=uCd9UcbbVyc&t=5730s) about a path towards fair and explainable automated decision-making and to participate in a [panel](https://youtu.be/CxLQDENykRk?t=10903) at a Responsible AI [workshop](https://sites.google.com/view/rainscmu) at Carnegie Mellon University. I outline our vision in [these two slides](https://twitter.com/przemyslslaw/status/1658956246593024001/photo/1).
+* Our manuscript [Learning from Discriminatory Training Data](https://arxiv.org/pdf/1912.08189.pdf) has been accepted to AIES'23. We define the problem of discrimination prevention in machine learning as a dataset shift and propose a solution building on our prior work "Marrying Fairness and Explainability".
+* UMass Amherst released [an article](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world) quoting me and my graduate course on [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI). In today's globalized world, we need to design techno-social systems with social responsibility in mind.
+* In 2022 I instructed for the first time my [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI) course.
+* Our paper [Marrying Fairness and Explainability in Supervised Learning](https://dl.acm.org/doi/abs/10.1145/3531146.3533236) was accepted to the FAccT'22 conference. Check out the [recorded presentation](https://www.youtube.com/watch?v=SA86eimWIcw).
+* In 2022 we successfully organized the NLP competition [SemEval-2022 Task 8: Multilingual news article similarity](https://aclanthology.org/2022.semeval-1.155/) that attracted over 30 research teams and released the largest labeled multilingual [dataset of news articles](https://zenodo.org/record/6507872) published across 124 countries.
+
+
+Press coverage
+======
+- Our eLetter in Science received wide media attention from [Science](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), [WSJ](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), and more.
+- Coverage by [various media outlets](https://socialpolls.org/#/media), including El País, Fox network, Tech Policy Press, and Phys.org of our research on election polls on social media ([socialpolls.org](https://socialpolls.org/)).
+- UMass Amherst, Bridging ethics and technology in a fast-changing world, 2023, [umass.edu](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world)
+- El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
+- El Mundo, Los entresijos de Twitter, 2011, [elmundo.es](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
+- Extensive coverage by outlets such as WSJ and NYT of the research for the Observatory on Social Media, which used my [fast dynamic network visualization algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
+
+
 Research labs
 ======
 <!-- <img style="float: right;" src="/images/sims.png"; width: 150px> -->
@@ -56,21 +81,6 @@ I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery L
 * [Justin Clarke](https://people.cs.umass.edu/~jclarke/)
 
 
-
-News
-======
-* Science published our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981), and an [editorial](https://www.science.org/doi/epdf/10.1126/science.adt2983)+[article](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt ) discussing its implications. We call into question key conclusions of a widely reported [Science paper](https://www.science.org/doi/10.1126/science.abp9364) that suggested Facebook's news feed algorithm prevents misinformation.
-* Our research on election polls on social media has been [covered by various media outlets](https://socialpolls.org/#/media), including El País, Fox network, and Phys.org!
-* Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.)
-* Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!!
-* I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
-* I was honored to give a [talk](https://www.youtube.com/watch?v=uCd9UcbbVyc&t=5730s) about a path towards fair and explainable automated decision-making and to participate in a [panel](https://youtu.be/CxLQDENykRk?t=10903) at a Responsible AI [workshop](https://sites.google.com/view/rainscmu) at Carnegie Mellon University. I outline our vision in [these two slides](https://twitter.com/przemyslslaw/status/1658956246593024001/photo/1).
-* Our manuscript [Learning from Discriminatory Training Data](https://arxiv.org/pdf/1912.08189.pdf) has been accepted to AIES'23. We define the problem of discrimination prevention in machine learning as a dataset shift and propose a solution building on our prior work "Marrying Fairness and Explainability".
-* UMass Amherst released [an article](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world) quoting me and my graduate course on [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI). In today's globalized world, we need to design techno-social systems with social responsibility in mind.
-* In 2022 I instructed for the first time my [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI) course.
-* Our paper [Marrying Fairness and Explainability in Supervised Learning](https://dl.acm.org/doi/abs/10.1145/3531146.3533236) was accepted to the FAccT'22 conference. Check out the [recorded presentation](https://www.youtube.com/watch?v=SA86eimWIcw).
-* In 2022 we successfully organized the NLP competition [SemEval-2022 Task 8: Multilingual news article similarity](https://aclanthology.org/2022.semeval-1.155/) that attracted over 30 research teams and released the largest labeled multilingual [dataset of news articles](https://zenodo.org/record/6507872) published across 124 countries.
-
 Grants and prizes
 ======
 
@@ -97,17 +107,6 @@ Przemyslaw Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
 * WICI Data Challenge [main prize recipients](https://docs.google.com/file/d/0B0_e6k3kQKEucENGaDBZd0xSU0k/edit?resourcekey=0-EkbTbDNmiXeuXx57U36hSw) ($10k)\
 Real-time visualization of relevant portions of large dynamic networks, 2013\
 Przemyslaw Grabowicz, Luca Maria Aiello, Fil Menczer
-
-
-Press coverages
-======
-- Our eLetter in Science received wide media attention from [Science](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), [WSJ](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), and more.
-- Coverage by [various media outlets](https://socialpolls.org/#/media), including El País, Fox network, Tech Policy Press, and Phys.org of our research on election polls on social media ([socialpolls.org](https://socialpolls.org/)).
-- UMass Amherst, Bridging ethics and technology in a fast-changing world, 2023, [umass.edu](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world)
-- El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
-- El Mundo, Los entresijos de Twitter, 2011, [elmundo.es](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
-- Extensive coverage by outlets such as WSJ and NYT of the research for the Observatory on Social Media, which used my [fast dynamic network visualization algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
-
 
 [![image](/images/rai.jpg){: .align-center width="100%" }](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI)
 Image generously contributed by [Mohamed Hassan](https://pxhere.com/en/photo/1638452).
