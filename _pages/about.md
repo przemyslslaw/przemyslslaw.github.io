@@ -15,7 +15,7 @@ I'm an Assistant Professor of Computer Science at [University College Dublin](ht
 **I'm recruiting PhD students at University College Dublin!**\
 **Email me if you are interested!**\
 👩‍🎓👩🏽‍🎓👨🏻‍🎓
-{: style="color:gray; font-size: 130%; text-align: center;"}
+{: style="color:gray; font-size: 115%; text-align: center;"}
 
 <!-- My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems. -->
 
