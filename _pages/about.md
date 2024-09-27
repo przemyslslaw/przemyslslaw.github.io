@@ -30,7 +30,7 @@ Research areas: *fair and explainable machine learning, data science, computatio
 News
 ======
 * Science published our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981), along with an [editorial](https://www.science.org/doi/epdf/10.1126/science.adt2983) and [article](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt ) discussing its implications. In it, we call into question a widely reported [Science paper](https://www.science.org/doi/10.1126/science.abp9364), funded by Meta, which suggested that Facebook's news feed algorithm prevents misinformation.
-* Our research on election polls on social media has been [covered by various media outlets](https://socialpolls.org/#/media), including El País, Fox network, and Phys.org!
+* Our research on election polls on social media has been [covered by various media outlets](https://socialpolls.org/#/media), including [Tech Policy Press](https://www.techpolicy.press/x-polls-skew-political-realities-of-us-presidential-elections/), El País, Fox network, and Phys.org!
 * Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.)
 * Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!!
 * I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
@@ -45,7 +45,7 @@ News
 Press coverage
 ======
 - Our eLetter in Science received wide media coverage from [Science](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), [WSJ](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), and other media outlets!
-- Coverage by [various media outlets](https://socialpolls.org/#/media), including El País, Fox network, Tech Policy Press, and Phys.org of our research on election polls on social media ([socialpolls.org](https://socialpolls.org/)).
+- Coverage by [various media outlets](https://socialpolls.org/#/media), including [Tech Policy Press](https://www.techpolicy.press/x-polls-skew-political-realities-of-us-presidential-elections/), El País, Fox network, and Phys.org of our research on election polls on social media ([socialpolls.org](https://socialpolls.org/)).
 - UMass Amherst, Bridging ethics and technology in a fast-changing world, 2023, [umass.edu](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world)
 - El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
 - El Mundo, Los entresijos de Twitter, 2011, [elmundo.es](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
