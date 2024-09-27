@@ -44,7 +44,7 @@ News
 
 Press coverage
 ======
-- Our eLetter in Science received wide media attention from [Science](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), [WSJ](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), and more.
+- Our eLetter in Science received wide media coverage from [Science](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), [WSJ](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), and other media outlets.
 - Coverage by [various media outlets](https://socialpolls.org/#/media), including El País, Fox network, Tech Policy Press, and Phys.org of our research on election polls on social media ([socialpolls.org](https://socialpolls.org/)).
 - UMass Amherst, Bridging ethics and technology in a fast-changing world, 2023, [umass.edu](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world)
 - El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
