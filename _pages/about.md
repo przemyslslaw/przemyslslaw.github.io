@@ -88,6 +88,10 @@ Grants and prizes
 Grant from the U.S. National Science Foundation for 2024-2026 ($400k)\
 Przemyslaw Grabowicz, Brendan O'Connor, JungHwan Yang, Filippo Menczer -->
 
+* Arnold O. Beckman Research Award "An Experimental Study of the Effects of Exposure to Biased Polls on Social Media" \
+The Campus Research Board of the University of Illinois Urbana-Champaign ($30k)\
+JungHwan Yang, Przemyslaw Grabowicz (co-PI)
+
 * Interdisciplinary Research Grant "[Political Misinformation and Disinformation Through Social Media Biases  ](https://www.umass.edu/social-sciences/news/irg-political-misinformation-polls)" \
 Grant from UMass Amherst for 2023-2024 (funds a graduate RA)\
 Przemyslaw Grabowicz, Monideepa Tarafgar, Jennifer Lundquist, Anthony Paik, JungHwan Yang, Mattia Samory
