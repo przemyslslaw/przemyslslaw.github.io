@@ -5,7 +5,7 @@ permalink: /bio/
 author_profile: true
 ---
 
-Przemyslaw (short Przemek, pronounced as /Pshemek/) Grabowicz is an Assistant Professor of Computer Science at the [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/).
+Przemyslaw (short Przemek, pronounced as 'Pshemek') Grabowicz is an Assistant Professor of Computer Science at the [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/).
 
 Przemek received his Ph.D. in Interdisciplinary Physics from the Institute for Cross-Disciplinary Physics and Complex Systems (2014, cum laude) and M.Sc. from Warsaw University of Technology (2008, cum laude). He was a postdoctoral researcher at the Max Planck Institute for Software Systems.
 
