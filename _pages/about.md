@@ -29,7 +29,7 @@ Research areas: *fair and explainable machine learning, data science, computatio
 News
 ======
 ![image](/images/science.png){: .align-right width="35%"}
-* Science published our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981), along with an [editorial](https://www.science.org/doi/epdf/10.1126/science.adt2983) and [article](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt ) discussing its implications. In it, we call into question a widely reported [Science paper](https://www.science.org/doi/10.1126/science.abp9364), funded by Meta, which suggested that Facebook's news feed algorithm prevents misinformation.
+* Science published our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981), along with an [editorial](https://www.science.org/doi/epdf/10.1126/science.adt2983) and [article](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt ) discussing its implications. In it, we call into question a widely reported [Science paper](https://www.science.org/doi/10.1126/science.abp9364), funded by Meta, which suggested that Facebook's news feed algorithm is effective at preventing misinformation.
 * Our research on election polls on social media has been [covered by various media outlets](https://socialpolls.org/#/media), including [Tech Policy Press](https://www.techpolicy.press/x-polls-skew-political-realities-of-us-presidential-elections/), El País, Fox network, and Phys.org!
 * Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.)
 * Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!!
@@ -84,9 +84,9 @@ I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery L
 Grants and prizes
 ======
 
-* "Collaborative Research: SaTC: CORE: Small: [Identifying the Demographic Representativeness of Social Media Polls](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2432050&HistoricalAwards=false)"\
+<!-- * "Collaborative Research: SaTC: CORE: Small: [Identifying the Demographic Representativeness of Social Media Polls](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2432050&HistoricalAwards=false)"\
 Grant from the U.S. National Science Foundation for 2024-2026 ($400k)\
-Przemyslaw Grabowicz, Brendan O'Connor, JungHwan Yang, Filippo Menczer
+Przemyslaw Grabowicz, Brendan O'Connor, JungHwan Yang, Filippo Menczer -->
 
 * Interdisciplinary Research Grant "[Political Misinformation and Disinformation Through Social Media Biases  ](https://www.umass.edu/social-sciences/news/irg-political-misinformation-polls)" \
 Grant from UMass Amherst for 2023-2024 (funds a graduate RA)\
