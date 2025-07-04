@@ -6,5 +6,5 @@ year: 2025
 venue: 'AAAI ICWSM&apos;25'
 paperurl: 'https://www.arxiv.org/abs/2506.12925'
 resourceslug: no_resource
-authors: 'E. Cai, Xi Chen, R. Keeney, E. Zuckerman, B. O'Connor, and P.A. Grabowicz'
+authors: 'E. Cai, Xi Chen, R. Keeney, E. Zuckerman, B. OConnor, and P.A. Grabowicz'
 ---
