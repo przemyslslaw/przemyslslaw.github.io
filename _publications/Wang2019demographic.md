@@ -3,7 +3,7 @@ title: "Demographic Inference and Representative Population Estimates from Multi
 collection: publications
 date: 2019-01-01
 year: 2019
-venue: 'WebConf&apos;19 (best poster presentation award, long paper)'
+venue: 'WebConf&apos;19 (best poster presentation award, long paper) 🏆'
 paperurl: 'https://arxiv.org/abs/1905.05961'
 resourceurl: 'https://github.com/euagendas'
 resourceslug: code & data

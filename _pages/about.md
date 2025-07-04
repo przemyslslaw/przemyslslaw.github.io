@@ -28,6 +28,7 @@ Research areas: *fair and explainable machine learning, data science, computatio
 
 News
 ======
+* Our [paper](https://www.arxiv.org/abs/2506.12925) "Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs" received Best Paper Honorable Mention 🏆 at ICWSM'25! Congratulations to our team!
 ![image](/images/zdf.png){: .align-right width="25%"}
 * Our study "Political Biases on X before the 2025 German Federal Election" has been broadcast by ZDF (German public TV channel). I attach our Uncommon Good [blog post](https://open.substack.com/pub/uncommongood/p/political-biases-on-x-before-the?r=252a0b&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and [full research report](https://doi.org/10.5281/zenodo.14880275).
 
