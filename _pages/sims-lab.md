@@ -5,7 +5,7 @@ permalink: /sims-lab/
 author_profile: true
 ---
 
-SIMS (Socially Intelligent Media and Systems) Lab studies how technology shapes society and how to build responsible, human-centered systems.
+The SIMS (Socially Intelligent Media and Systems) Lab studies how technology shapes society and how to build responsible, human-centered systems. The SIMS Lab is a *transatlantic* research lab that includes researchers at University College Dublin and University of Massachusetts Amherst.
 
 <style>
 .sims-grid {
@@ -43,7 +43,7 @@ SIMS (Socially Intelligent Media and Systems) Lab studies how technology shapes 
 
 <div class="sims-grid">
   <div class="sims-card">
-    <div class="sims-photo"></div>
+    <img class="sims-photo" src="/images/sims-lab/Soumyadeep_Sar.jpg" alt="Soumyadeep Sar">
     <div class="sims-name"><a href="https://www.linkedin.com/in/soumyadeep-sar-9b1a391b0/">Soumyadeep Sar</a></div>
     <div class="sims-affil">University College Dublin</div>
   </div>
@@ -63,6 +63,11 @@ SIMS (Socially Intelligent Media and Systems) Lab studies how technology shapes 
     <div class="sims-affil">University of Vermont (informal co-advising)</div>
   </div>
   <div class="sims-card">
+    <img class="sims-photo" src="/images/sims-lab/Arash_Khojaste.jpg" alt="Arash Khojaste">
+    <div class="sims-name">Arash Khojaste</div>
+    <div class="sims-affil">University of Massachusetts Amherst (research assistant)</div>
+  </div>
+  <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Nicholas_Perello.jpg" alt="Nicholas Perello">
     <div class="sims-name"><a href="https://nperello.github.io/">Nicholas Perello</a></div>
     <div class="sims-affil">University of Massachusetts Amherst</div>
@@ -74,17 +79,12 @@ SIMS (Socially Intelligent Media and Systems) Lab studies how technology shapes 
   </div>
 </div>
 
-## MS Students and Research Assistants
+## MS Students
 
 <div class="sims-grid">
   <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Gayathri_Sunil.jpg" alt="Gayathri Sunil">
     <div class="sims-name">Gayathri Sunil</div>
-    <div class="sims-affil">University of Massachusetts Amherst</div>
-  </div>
-  <div class="sims-card">
-    <img class="sims-photo" src="/images/sims-lab/Arash_Khojaste.jpg" alt="Arash Khojaste">
-    <div class="sims-name">Arash Khojaste</div>
     <div class="sims-affil">University of Massachusetts Amherst</div>
   </div>
   <div class="sims-card">
