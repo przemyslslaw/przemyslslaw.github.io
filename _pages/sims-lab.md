@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "SIMS Lab"
+title: "The SIMS (Socially Intelligent Media and Systems) Lab"
 permalink: /sims-lab/
 author_profile: true
 ---
 
-The SIMS (Socially Intelligent Media and Systems) Lab studies how technology shapes society and how to build responsible, human-centered systems. The SIMS Lab is a *transatlantic* research lab that includes researchers at University College Dublin and University of Massachusetts Amherst.
+The SIMS Lab studies *how technology shapes society* and how to build *responsible AI-based systems and media*. The SIMS Lab is a **transatlantic** research group at University College Dublin and University of Massachusetts Amherst.
 
 <style>
 .sims-grid {
