@@ -64,7 +64,7 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
   </div>
   <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Arash_Khojaste.jpg" alt="Arash Khojaste">
-    <div class="sims-name">Arash Khojaste</div>
+    <div class="sims-name"><a href="https://www.linkedin.com/in/arash-khojaste-b21732135/">Arash Khojaste</a></div>
     <div class="sims-affil">University of Massachusetts Amherst (research assistant)</div>
   </div>
   <div class="sims-card">
@@ -84,17 +84,17 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
 <div class="sims-grid">
   <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Gayathri_Sunil.jpg" alt="Gayathri Sunil">
-    <div class="sims-name">Gayathri Sunil</div>
+    <div class="sims-name"><a href="https://scholar.google.es/citations?user=Au1gbsgAAAAJ&hl=en&oi=ao">Gayathri Sunil</a></div>
     <div class="sims-affil">University of Massachusetts Amherst</div>
   </div>
   <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Ishita_Chauhan.jpg" alt="Ishita Chauhan">
-    <div class="sims-name">Ishita Chauhan</div>
+    <div class="sims-name"><a href="https://ishizz.com/">Ishita Chauhan</a></div>
     <div class="sims-affil">University of Massachusetts Amherst</div>
   </div>
   <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Geetanjali_Aich.jpg" alt="Geetanjali Aich">
-    <div class="sims-name">Geetanjali Aich</div>
+    <div class="sims-name"><a href="https://scholar.google.com/citations?user=s9P-0QYAAAAJ&hl=en">Geetanjali Aich</a></div>
     <div class="sims-affil">University of Massachusetts Amherst</div>
   </div>
   <div class="sims-card">
@@ -109,7 +109,7 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
   </div>
   <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Vijayalakshmi_Vasudevan.jpg" alt="Vijayalakshmi Vasudevan">
-    <div class="sims-name">Vijayalakshmi Vasudevan</div>
+    <div class="sims-name"><a href="https://www.linkedin.com/in/vijayalakshmi-vasudevan-b95725156/">Vijayalakshmi Vasudevan<a></div>
     <div class="sims-affil">University of Massachusetts Amherst</div>
   </div>
   <div class="sims-card">
@@ -126,5 +126,35 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
     <img class="sims-photo" src="/images/sims-lab/Niko_Lorantos.jpg" alt="Niko Lorantos">
     <div class="sims-name"><a href="https://nikolorantos.com">Niko Lorantos</a></div>
     <div class="sims-affil">University of Massachusetts Amherst</div>
+  </div>
+  <div class="sims-card">
+    <div class="sims-photo"></div>
+    <div class="sims-name">Siyu Zhang</div>
+    <div class="sims-affil">University College Dublin</div>
+  </div>
+  <div class="sims-card">
+    <div class="sims-photo"></div>
+    <div class="sims-name">Maciej Szmagara</div>
+    <div class="sims-affil">University College Dublin</div>
+  </div>
+  <div class="sims-card">
+    <div class="sims-photo"></div>
+    <div class="sims-name">Eamonn Martin</div>
+    <div class="sims-affil">University College Dublin</div>
+  </div>
+  <div class="sims-card">
+    <div class="sims-photo"></div>
+    <div class="sims-name">Aniij Sharma</div>
+    <div class="sims-affil">University College Dublin</div>
+  </div>
+  <div class="sims-card">
+    <div class="sims-photo"></div>
+    <div class="sims-name">Claire Murphy</div>
+    <div class="sims-affil">University College Dublin</div>
+  </div>
+  <div class="sims-card">
+    <div class="sims-photo"></div>
+    <div class="sims-name">Muhammad Khan</div>
+    <div class="sims-affil">University College Dublin</div>
   </div>
 </div>

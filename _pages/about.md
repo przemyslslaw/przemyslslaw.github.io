@@ -60,35 +60,6 @@ Press coverage
 - Extensive coverage by outlets such as WSJ and NYT of the research for the Observatory on Social Media, which used my [fast dynamic network visualization algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
 
 
-Research labs
-======
-<!-- <img style="float: right;" src="/images/sims.png"; width: 150px> -->
-![image](/images/sims.png){: .align-right width="18%" }
-
-I am heading the SIMS (Socially Intelligent Media and Systems) lab, which includes the following PhD students:
-* [Xi Chen](https://underline.io/speakers/196520-xi-chen)
-* [Nicholas Perello](https://nperello.github.io/)
-* [Andrew Yuan](https://www.linkedin.com/in/andrewwyuan/)
-* [Chhandak Bagchi](https://people.umass.edu/cbagchi/)
-
-We collaborate with MS students:
-* [Vishal Kalakonnavar](https://www.linkedin.com/in/vishal-kalakonnavar/)
-* [Yashika Kuckian](https://www.linkedin.com/in/yashika-kuckian-687152214)
-* [Kedarnath Kashinath Chimmad](https://www.linkedin.com/in/kedarnathchimmad/)
-* [Mayank Bumb](https://www.linkedin.com/in/mayankbumb57/) 
-
-<!-- * [Stephen Scarano](https://stephentemp.github.io/)
-* [Vijayalakshmi Vasudevan](https://www.linkedin.com/in/vijayalakshmi-vasudevan-b95725156/)
-* [Jash Mitesh Dalal](https://scholar.google.com/citations?user=K9jRPeMAAAAJ&hl=en)
- -->
-
-![image](/images/kdl.png){: .align-right width="18%" }
-
-I am also a member of the [KDL](http://kdl.cs.umass.edu/) (Knowledge Discovery Lab), where I work with these PhD students:
-* [Kaleigh Clary](https://people.cs.umass.edu/~kclary/)
-* [Justin Clarke](https://people.cs.umass.edu/~jclarke/)
-
-
 Grants and prizes
 ======
 
