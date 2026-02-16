@@ -41,6 +41,11 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
 }
 </style>
 
+## Lab Photos
+
+![SIMS Lab outing at El Comalito](/images/sims-lab/2025_El_Comalito.jpg)
+*The US part of our team*
+
 ## PhD Students
 
 <div class="sims-grid">
@@ -161,8 +166,3 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
     <div class="sims-affil">University College Dublin</div>
   </div>
 </div>
-
-## Lab Photos
-
-![SIMS Lab outing at El Comalito](/images/sims-lab/2025_El_Comalito.jpg)
-*The US part of our team*
