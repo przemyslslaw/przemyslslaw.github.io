@@ -109,7 +109,7 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
   </div>
   <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Vijayalakshmi_Vasudevan.jpg" alt="Vijayalakshmi Vasudevan">
-    <div class="sims-name"><a href="https://www.linkedin.com/in/vijayalakshmi-vasudevan-b95725156/">Vijayalakshmi Vasudevan<a></div>
+    <div class="sims-name"><a href="https://www.linkedin.com/in/vijayalakshmi-vasudevan-b95725156/">Vijayalakshmi Vasudevan</a></div>
     <div class="sims-affil">University of Massachusetts Amherst</div>
   </div>
   <div class="sims-card">
