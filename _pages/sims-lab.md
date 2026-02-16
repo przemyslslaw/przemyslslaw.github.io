@@ -123,11 +123,6 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
 
 <div class="sims-grid">
   <div class="sims-card">
-    <img class="sims-photo" src="/images/sims-lab/Niko_Lorantos.jpg" alt="Niko Lorantos">
-    <div class="sims-name"><a href="https://nikolorantos.com">Niko Lorantos</a></div>
-    <div class="sims-affil">University of Massachusetts Amherst</div>
-  </div>
-  <div class="sims-card">
     <div class="sims-photo"></div>
     <div class="sims-name">Siyu Zhang</div>
     <div class="sims-affil">University College Dublin</div>
@@ -143,18 +138,23 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
     <div class="sims-affil">University College Dublin</div>
   </div>
   <div class="sims-card">
-    <div class="sims-photo"></div>
-    <div class="sims-name">Aniij Sharma</div>
+    <img class="sims-photo" src="/images/sims-lab/Aniij_Sharma.jpg" alt="Aniij Sharma">
+    <div class="sims-name"><a href="https://www.linkedin.com/in/aniij-s-7690581b2/">Aniij Sharma</a></div>
     <div class="sims-affil">University College Dublin</div>
   </div>
   <div class="sims-card">
-    <div class="sims-photo"></div>
-    <div class="sims-name">Claire Murphy</div>
+    <img class="sims-photo" src="/images/sims-lab/Claire_Murphy.jpg" alt="Claire Murphy">
+    <div class="sims-name"><a href="https://www.linkedin.com/in/claire-murphy-107a31282/">Claire Murphy</a></div>
     <div class="sims-affil">University College Dublin</div>
   </div>
   <div class="sims-card">
-    <div class="sims-photo"></div>
-    <div class="sims-name">Muhammad Khan</div>
+    <img class="sims-photo" src="/images/sims-lab/Muhammad_Khan.jpg" alt="Muhammad Zubair Khan">
+    <div class="sims-name"><a href="https://www.linkedin.com/in/muhammadzubairsamikhan/">Muhammad Zubair Khan</a></div>
     <div class="sims-affil">University College Dublin</div>
+  </div>
+  <div class="sims-card">
+    <img class="sims-photo" src="/images/sims-lab/Niko_Lorantos.jpg" alt="Niko Lorantos">
+    <div class="sims-name"><a href="https://nikolorantos.com">Niko Lorantos</a></div>
+    <div class="sims-affil">University of Massachusetts Amherst</div>
   </div>
 </div>
