@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+[![image](/images/sims.png){: .align-right width="18%" }](/sims-lab/)
 
-I'm an Assistant Professor of Computer Science at [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/). I head the [SIMS lab](#research-labs), the [EQUATE](https://groups.cs.umass.edu/equate/) initiative, and the website [socialpolls.org](https://socialpolls.org/). Occasionally I write for the [Uncommon Good blog](https://uncommongood.substack.com/).
+I'm an Assistant Professor of Computer Science at [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/). I head the [SIMS lab](/sims-lab/), the [EQUATE](https://groups.cs.umass.edu/equate/) initiative, and the website [socialpolls.org](https://socialpolls.org/). Occasionally I write for the [Uncommon Good blog](https://uncommongood.substack.com/).
 
 <!-- 👩🏼‍💻🧑🏿‍💻👨‍💻\
 **I'm recruiting a postdoc at University College Dublin! Email me if you are interested!**\
