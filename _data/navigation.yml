@@ -4,6 +4,9 @@ main:
   - title: "Bio"
     url: /bio/
 
+  - title: "SIMS Lab"
+    url: /sims-lab/
+
   - title: "Publications"
     url: /publications/
 
