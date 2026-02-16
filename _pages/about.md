@@ -60,37 +60,6 @@ Press coverage
 - Extensive coverage by outlets such as WSJ and NYT of the research for the Observatory on Social Media, which used my [fast dynamic network visualization algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
 
 
-Grants and prizes
-======
-
-<!-- * "Collaborative Research: SaTC: CORE: Small: [Identifying the Demographic Representativeness of Social Media Polls](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2432050&HistoricalAwards=false)"\
-Grant from the U.S. National Science Foundation for 2024-2026 ($400k)\
-Przemyslaw Grabowicz, Brendan O'Connor, JungHwan Yang, Filippo Menczer -->
-
-* Arnold O. Beckman Research Award "An Experimental Study of the Effects of Exposure to Biased Polls on Social Media" \
-The Campus Research Board of the University of Illinois Urbana-Champaign ($30k)\
-JungHwan Yang, Przemyslaw Grabowicz (co-PI)
-
-* Interdisciplinary Research Grant "[Political Misinformation and Disinformation Through Social Media Biases  ](https://www.umass.edu/social-sciences/news/irg-political-misinformation-polls)" \
-Grant from UMass Amherst for 2023-2024 (funds a graduate RA)\
-Przemyslaw Grabowicz, Monideepa Tarafgar, Jennifer Lundquist, Anthony Paik, JungHwan Yang, Mattia Samory
-
-* Interdisciplinary Research Grant "[Analyzing cross-country bias in news coverage of international conflicts and disasters](https://www.cics.umass.edu/news/six-cics-faculty-selected-receive-umass-interdisciplinary-research-grants)" \
-Grant from UMass Amherst for 2023-2024 (funds a graduate RA)\
-Przemyslaw Grabowicz, Paul Musgrave, Brendan O'Connor, Ethan Zuckerman
-
-* Project "Agendas and frames in a global pandemic: Evolution of cross-country media coverage"\
-Supplementary grant from Volkswagen Foundation for 2021-2022 (€120k)\
-Przemyslaw Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
-
-* Project "[Current Affairs 2.0: Agenda Setting in the European Union](http://www.euagendas.org/)"\
-Grant from Volkswagen Foundation for Computational Social Science for 2017-2022 (€843k)\
-Przemyslaw Grabowicz, Scott Hale, Fabian Flöck, David Jurgens
-
-* WICI Data Challenge [main prize recipients](https://docs.google.com/file/d/0B0_e6k3kQKEucENGaDBZd0xSU0k/edit?resourcekey=0-EkbTbDNmiXeuXx57U36hSw) ($10k)\
-Real-time visualization of relevant portions of large dynamic networks, 2013\
-Przemyslaw Grabowicz, Luca Maria Aiello, Fil Menczer
-
 [![image](/images/rai.jpg){: .align-center width="100%" }](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI)
 Image generously contributed by [Mohamed Hassan](https://pxhere.com/en/photo/1638452).
 
