@@ -29,24 +29,31 @@ Research areas: *fair and explainable machine learning, data science, computatio
 
 News
 ======
+**2025**
 * Our [paper](https://www.arxiv.org/abs/2506.12925) "Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs" received Best Paper Honorable Mention 🏆 at ICWSM'25! Congratulations to our team!
 ![image](/images/zdf.png){: .align-right width="25%"}
 * Our study "Political Biases on X before the 2025 German Federal Election" has been broadcast by ZDF (German public TV channel). I attach our Uncommon Good [blog post](https://open.substack.com/pub/uncommongood/p/political-biases-on-x-before-the?r=252a0b&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and [full research report](https://doi.org/10.5281/zenodo.14880275).
 
 ![image](/images/science.png){: .align-right width="30%"}
+
+**2024**
 * Science published our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981), along with an [editorial](https://www.science.org/doi/epdf/10.1126/science.adt2983) and [article](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt ) discussing its implications. In it, we call into question a widely reported [Science paper](https://www.science.org/doi/10.1126/science.abp9364), funded by Meta, which suggested that Facebook's news feed algorithm is effective at preventing misinformation.
 
 ![image](/images/elpais.png){: .align-right width="30%"}
 * Our research on election polls on social media has been [covered by various media outlets](https://socialpolls.org/#/media), including [Tech Policy Press](https://www.techpolicy.press/x-polls-skew-political-realities-of-us-presidential-elections/), El País, Fox network, and Phys.org!
-* Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.)
-* Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!!
+<!-- * Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.) -->
+<!-- * Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!! -->
+
+**2023**
 * I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
 * I was honored to give a [talk](https://www.youtube.com/watch?v=uCd9UcbbVyc&t=5730s) about a path towards fair and explainable automated decision-making and to participate in a [panel](https://youtu.be/CxLQDENykRk?t=10903) at a Responsible AI [workshop](https://sites.google.com/view/rainscmu) at Carnegie Mellon University. I outline our vision in [these two slides](https://twitter.com/przemyslslaw/status/1658956246593024001/photo/1).
-* Our manuscript [Learning from Discriminatory Training Data](https://arxiv.org/pdf/1912.08189.pdf) has been accepted to AIES'23. We define the problem of discrimination prevention in machine learning as a dataset shift and propose a solution building on our prior work "Marrying Fairness and Explainability".
+<!-- * Our manuscript [Learning from Discriminatory Training Data](https://arxiv.org/pdf/1912.08189.pdf) has been accepted to AIES'23. We define the problem of discrimination prevention in machine learning as a dataset shift and propose a solution building on our prior work "Marrying Fairness and Explainability". -->
 * UMass Amherst released [an article](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world) quoting me and my graduate course on [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI). In today's globalized world, we need to design techno-social systems with social responsibility in mind.
-* In 2022 I instructed for the first time my [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI) course.
-* Our paper [Marrying Fairness and Explainability in Supervised Learning](https://dl.acm.org/doi/abs/10.1145/3531146.3533236) was accepted to the FAccT'22 conference. Check out the [recorded presentation](https://www.youtube.com/watch?v=SA86eimWIcw).
-* In 2022 we successfully organized the NLP competition [SemEval-2022 Task 8: Multilingual news article similarity](https://aclanthology.org/2022.semeval-1.155/) that attracted over 30 research teams and released the largest labeled multilingual [dataset of news articles](https://zenodo.org/record/6507872) published across 124 countries.
+
+**2022**
+* I instructed for the first time my [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI) course.
+<!-- * Our paper [Marrying Fairness and Explainability in Supervised Learning](https://dl.acm.org/doi/abs/10.1145/3531146.3533236) was accepted to the FAccT'22 conference. Check out the [recorded presentation](https://www.youtube.com/watch?v=SA86eimWIcw). -->
+* We successfully organized the NLP competition [SemEval-2022 Task 8: Multilingual news article similarity](https://aclanthology.org/2022.semeval-1.155/) that attracted over 30 research teams and released the largest labeled multilingual [dataset of news articles](https://zenodo.org/record/6507872) published across 124 countries.
 
 
 Press coverage
