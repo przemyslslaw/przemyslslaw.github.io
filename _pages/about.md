@@ -29,6 +29,9 @@ Research areas: *fair and explainable machine learning, data science, computatio
 
 News
 ======
+**2026**
+* Our [opinion article](https://arxiv.org/html/2512.14223v1) "Research Opportunities and Challenges of the EU’s Digital Services Act" has been accepted for publication in The Communications of the ACM!
+
 **2025**
 * Our [paper](https://www.arxiv.org/abs/2506.12925) "Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs" received Best Paper Honorable Mention 🏆 at ICWSM'25! Congratulations to our team!
 ![image](/images/zdf.png){: .align-right width="20%"}
@@ -75,7 +78,7 @@ News
 
 
 [![image](/images/rai.jpg){: .align-center width="100%" }](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI)
-*Course I developed from scratch: Responsible AI. Image generously contributed by [Mohamed Hassan](https://pxhere.com/en/photo/1638452).*
+*My novel course: Responsible AI. Image generously contributed by [Mohamed Hassan](https://pxhere.com/en/photo/1638452).*
 
 
 <!--
