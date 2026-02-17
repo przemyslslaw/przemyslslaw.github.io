@@ -60,9 +60,9 @@ News
 
 **Press coverage before 2022**
 
-![image](/images/elmundo.png){: .align-right width="35%"}
-- El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
-- El Mundo, Los entresijos de Twitter, 2011, [elmundo.es](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
+![image](/images/elmundo.png){: .align-right width="30%"}
+- El Mundo, [El 'oráculo' de los bytes](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
+- El Mundo, [Los entresijos de Twitter](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
 - Extensive coverage by outlets such as WSJ and NYT of the research for the Observatory on Social Media, which used my [fast dynamic network visualization algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
 
 <!-- Press coverage
