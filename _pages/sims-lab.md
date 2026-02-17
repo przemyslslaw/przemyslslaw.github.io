@@ -44,7 +44,7 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
 ## Lab Photos
 
 ![SIMS Lab outing at El Comalito](/images/sims-lab/2025_El_Comalito.jpg)
-*The US part of our team*
+*The US part of our team.*
 
 ## PhD Students
 

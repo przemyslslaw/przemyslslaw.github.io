@@ -36,11 +36,14 @@ News
 
 **2024**
 
+![image](/images/wsj.jpeg){: .align-right width="20%"}
+- Our eLetter in Science received wide media coverage from [Frankfurter Allgemeine Zeitung](https://www.faz.net/aktuell/wissen/fake-news-trickste-facebook-wissenschaftler-aus-110012764.html), [WSJ](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), [ScienceInsider](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), and other media outlets!
+
 ![image](/images/science.png){: .align-right width="30%"}
 * Science published our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981), along with an [editorial](https://www.science.org/doi/epdf/10.1126/science.adt2983) and [article](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt ) discussing its implications. In it, we call into question a widely reported [Science paper](https://www.science.org/doi/10.1126/science.abp9364), funded by Meta, which suggested that Facebook's news feed algorithm is effective at preventing misinformation.
 
 ![image](/images/elpais.png){: .align-right width="30%"}
-* Our research on election polls on social media has been [covered by various media outlets](https://socialpolls.org/#/media), including [Tech Policy Press](https://www.techpolicy.press/x-polls-skew-political-realities-of-us-presidential-elections/), El País, Fox network, and Phys.org!
+* Our research on election polls on social media ([socialpolls.org](https://socialpolls.org/)) has been [covered by various media outlets](https://socialpolls.org/#/media), including [Tech Policy Press](https://www.techpolicy.press/x-polls-skew-political-realities-of-us-presidential-elections/), El País, Fox network, Phys.org, and reached the front page of [Reddit Science](https://www.reddit.com/r/science/comments/1f9ipvh/a_recent_study_examined_polls_conducted_on_x/)!
 <!-- * Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.) -->
 <!-- * Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!! -->
 
@@ -55,21 +58,24 @@ News
 <!-- * Our paper [Marrying Fairness and Explainability in Supervised Learning](https://dl.acm.org/doi/abs/10.1145/3531146.3533236) was accepted to the FAccT'22 conference. Check out the [recorded presentation](https://www.youtube.com/watch?v=SA86eimWIcw). -->
 * We successfully organized the NLP competition [SemEval-2022 Task 8: Multilingual news article similarity](https://aclanthology.org/2022.semeval-1.155/) that attracted over 30 research teams and released the largest labeled multilingual [dataset of news articles](https://zenodo.org/record/6507872) published across 124 countries.
 
-
-Press coverage
-======
-![image](/images/wsj.jpeg){: .align-right width="20%"}
-- Our eLetter in Science received wide media coverage from [Science](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), [WSJ](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), and other media outlets!
-- Coverage by [various media outlets](https://socialpolls.org/#/media), including [Tech Policy Press](https://www.techpolicy.press/x-polls-skew-political-realities-of-us-presidential-elections/), El País, Fox network, and Phys.org of our research on election polls on social media ([socialpolls.org](https://socialpolls.org/)).
-- UMass Amherst, Bridging ethics and technology in a fast-changing world, 2023, [umass.edu](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world)
+**Press coverage before 2022**
 - El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
 ![image](/images/elmundo.png){: .align-right width="35%"}
 - El Mundo, Los entresijos de Twitter, 2011, [elmundo.es](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
 - Extensive coverage by outlets such as WSJ and NYT of the research for the Observatory on Social Media, which used my [fast dynamic network visualization algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
 
+<!-- Press coverage
+======
+- UMass Amherst, Bridging ethics and technology in a fast-changing world, 2023, [umass.edu](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world)
+- El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
+![image](/images/elmundo.png){: .align-right width="35%"}
+- El Mundo, Los entresijos de Twitter, 2011, [elmundo.es](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
+- Extensive coverage by outlets such as WSJ and NYT of the research for the Observatory on Social Media, which used my [fast dynamic network visualization algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media) -->
+
 
 [![image](/images/rai.jpg){: .align-center width="100%" }](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI)
-Image generously contributed by [Mohamed Hassan](https://pxhere.com/en/photo/1638452).
+*Course I developed from scratch: Responsible AI. Image generously contributed by [Mohamed Hassan](https://pxhere.com/en/photo/1638452).*
+
 
 <!--
 A data-driven personal website
