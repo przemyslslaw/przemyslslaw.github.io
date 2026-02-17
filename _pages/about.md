@@ -34,9 +34,8 @@ News
 ![image](/images/zdf.png){: .align-right width="25%"}
 * Our study "Political Biases on X before the 2025 German Federal Election" has been broadcast by ZDF (German public TV channel). I attach our Uncommon Good [blog post](https://open.substack.com/pub/uncommongood/p/political-biases-on-x-before-the?r=252a0b&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and [full research report](https://doi.org/10.5281/zenodo.14880275).
 
-![image](/images/science.png){: .align-right width="30%"}
-
 **2024**
+![image](/images/science.png){: .align-right width="30%"}
 * Science published our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981), along with an [editorial](https://www.science.org/doi/epdf/10.1126/science.adt2983) and [article](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt ) discussing its implications. In it, we call into question a widely reported [Science paper](https://www.science.org/doi/10.1126/science.abp9364), funded by Meta, which suggested that Facebook's news feed algorithm is effective at preventing misinformation.
 
 ![image](/images/elpais.png){: .align-right width="30%"}
