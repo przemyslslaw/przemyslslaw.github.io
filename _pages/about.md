@@ -34,6 +34,7 @@ News
 
 **2025**
 * Our [paper](https://www.arxiv.org/abs/2506.12925) "Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs" received Best Paper Honorable Mention 🏆 at ICWSM'25! Congratulations to our team!
+
 ![image](/images/zdf.png){: .align-right width="20%"}
 * Our study "Political Biases on X before the 2025 German Federal Election" has been broadcast by ZDF (German public TV channel). I attach our Uncommon Good [blog post](https://open.substack.com/pub/uncommongood/p/political-biases-on-x-before-the?r=252a0b&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and a [research report](https://doi.org/10.5281/zenodo.14880275). Later this year we produced a [more comprehensive report](https://zenodo.org/records/17512529) for the 2025 presidential election in Poland, subsuming our research for Germany and Poland.
 
