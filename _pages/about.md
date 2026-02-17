@@ -36,7 +36,7 @@ News
 
 **2024**
 
-![image](/images/wsj2.jpg){: .align-right width="15%"}
+![image](/images/wsj.png){: .align-right width="15%"}
 - Our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981) in Science received wide media coverage from [The Wall Street Journal](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Frankfurter Allgemeine Zeitung](https://www.faz.net/aktuell/wissen/fake-news-trickste-facebook-wissenschaftler-aus-110012764.html), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), [ScienceInsider](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), and other media outlets!
 
 ![image](/images/science.png){: .align-right width="20%"}
@@ -59,8 +59,9 @@ News
 * We successfully organized the NLP competition [SemEval-2022 Task 8: Multilingual news article similarity](https://aclanthology.org/2022.semeval-1.155/) that attracted over 30 research teams and released the largest labeled multilingual [dataset of news articles](https://zenodo.org/record/6507872) published across 124 countries.
 
 **Press coverage before 2022**
-- El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
+
 ![image](/images/elmundo.png){: .align-right width="35%"}
+- El Mundo, El 'oráculo' de los bytes, 2013, [elmundo.es](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
 - El Mundo, Los entresijos de Twitter, 2011, [elmundo.es](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
 - Extensive coverage by outlets such as WSJ and NYT of the research for the Observatory on Social Media, which used my [fast dynamic network visualization algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
 
