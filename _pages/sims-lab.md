@@ -5,8 +5,7 @@ permalink: /sims-lab/
 author_profile: true
 ---
 
-<!-- ![image](/images/sims.png){: .align-right width="18%" } -->
-
+![image](/images/sims.png){: .align-right width="18%" }
 The SIMS Lab studies *how technology shapes society* and how to build *responsible AI-based systems and media*. The SIMS Lab is a **transatlantic** research group at University College Dublin (UCD) and University of Massachusetts Amherst (UMass Amherst).
 
 <style>
