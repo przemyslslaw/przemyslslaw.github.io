@@ -10,7 +10,7 @@ redirect_from:
 
 [![image](/images/sims.png){: .align-right width="18%" }](/sims-lab/)
 
-I'm Przemek (pronounced “Pshemek”). I'm a &mdash; human ;-) &mdash; Assistant Professor of Computer Science at the [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Assistant Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/). I lead the (transatlantic) [SIMS Lab](/sims-lab/), and related public-interest initiatives, including [SocialPolls.org](https://socialpolls.org/) and the [Uncommon Good blog](https://uncommongood.substack.com), and led the [EQUATE](https://groups.cs.umass.edu/equate/) initiative.
+I'm Przemek (pronounced “Pshemek”). I'm an Assistant Professor of Computer Science at the [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Assistant Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/). I lead the (transatlantic) [SIMS Lab](/sims-lab/), and related public-interest initiatives, including [SocialPolls.org](https://socialpolls.org/) and the [Uncommon Good blog](https://uncommongood.substack.com), and led the [EQUATE](https://groups.cs.umass.edu/equate/) initiative.
 
 <!-- 👩🏼‍💻🧑🏿‍💻👨‍💻\
 **I'm recruiting a postdoc at University College Dublin! Email me if you are interested!**\
