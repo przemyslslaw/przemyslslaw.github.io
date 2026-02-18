@@ -139,21 +139,6 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
 
 <div class="sims-grid">
   <div class="sims-card">
-    <div class="sims-photo"></div>
-    <div class="sims-name">Siyu Zhang</div>
-    <div class="sims-affil">UCD</div>
-  </div>
-  <div class="sims-card">
-    <div class="sims-photo"></div>
-    <div class="sims-name">Maciej Szmagara</div>
-    <div class="sims-affil">UCD</div>
-  </div>
-  <div class="sims-card">
-    <div class="sims-photo"></div>
-    <div class="sims-name">Eamonn Martin</div>
-    <div class="sims-affil">UCD</div>
-  </div>
-  <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Aniij_Sharma.jpg" alt="Aniij Sharma">
     <div class="sims-name"><a href="https://www.linkedin.com/in/aniij-s-7690581b2/">Aniij Sharma</a></div>
     <div class="sims-alumni">UCD</div>
@@ -171,7 +156,22 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
   <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Niko_Lorantos.jpg" alt="Niko Lorantos">
     <div class="sims-name"><a href="https://nikolorantos.com">Niko Lorantos</a></div>
-    <div class="sims-alumni">University of Massachusetts Amherst</div>
+    <div class="sims-alumni">UMass Amherst</div>
+  </div>
+  <div class="sims-card">
+    <div class="sims-photo"></div>
+    <div class="sims-name">Siyu Zhang</div>
+    <div class="sims-affil">UCD</div>
+  </div>
+  <div class="sims-card">
+    <div class="sims-photo"></div>
+    <div class="sims-name">Maciej Szmagara</div>
+    <div class="sims-affil">UCD</div>
+  </div>
+  <div class="sims-card">
+    <div class="sims-photo"></div>
+    <div class="sims-name">Eamonn Martin</div>
+    <div class="sims-affil">UCD</div>
   </div>
 </div>
 
