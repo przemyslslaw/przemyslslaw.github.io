@@ -74,7 +74,7 @@ News
 <!-- * Our paper [Marrying Fairness and Explainability in Supervised Learning](https://dl.acm.org/doi/abs/10.1145/3531146.3533236) was accepted to the FAccT'22 conference. Check out the [recorded presentation](https://www.youtube.com/watch?v=SA86eimWIcw). -->
 * 🔎 We successfully organized the NLP competition [SemEval-2022 Task 8](https://aclanthology.org/2022.semeval-1.155/) on "Multilingual news article similarity" that attracted over 30 research teams and released the largest labeled multilingual [dataset of news articles](https://zenodo.org/record/6507872) published across 124 countries.
 
-**$\le$ 2019**
+**$\le$ 2021**
 
 *  🏆 Our full-length [paper](https://dl.acm.org/doi/10.1145/3308558.3313684)  "Demographic Inference and Representative Population Estimates from Multilingual Social Media Data" received the "Best Poster" award by popular vote!
 
