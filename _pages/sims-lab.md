@@ -110,6 +110,11 @@ The SIMS Lab studies *how technology shapes society* and how to build *responsib
     <div class="sims-affil">UMass Amherst</div>
   </div>
   <div class="sims-card">
+    <img class="sims-photo" src="/images/sims-lab/Durga_Nirmaleswaran.jpg" alt="Durga Nirmaleswaran">
+    <div class="sims-name"><a href="https://www.linkedin.com/in/durga-nirmaleswaran/">Durga Nirmaleswaran</a></div>
+    <div class="sims-affil">UMass Amherst</div>
+  </div>
+  <div class="sims-card">
     <img class="sims-photo" src="/images/sims-lab/Vishal_Kalakonnavar.jpg" alt="Vishal Kalakonnavar">
     <div class="sims-name"><a href="https://www.linkedin.com/in/vishal-kalakonnavar">Vishal Kalakonnavar</a></div>
     <div class="sims-alumni">UMass Amherst</div>
