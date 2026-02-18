@@ -37,9 +37,12 @@ Research areas: *fair and explainable machine learning, data science, computatio
 News
 ======
 **2026**
+
+![image](/images/cacm.png){: .align-right width="20%"}
 * 📰 Our [opinion article](https://arxiv.org/html/2512.14223v1) "Research Opportunities and Challenges of the EU’s Digital Services Act" has been accepted for publication in The Communications of the ACM!
 
 **2025**
+
 * 🏆 Our [paper](https://www.arxiv.org/abs/2506.12925) "Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs" received Best Paper Honorable Mention at ICWSM'25! Congratulations team!
 
 ![image](/images/zdf.png){: .align-right width="20%"}
@@ -59,17 +62,20 @@ News
 <!-- * Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!! -->
 
 **2023**
+
 * 📰 I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
 * 🧑🏼‍🏫 I was honored to give a [talk](https://www.youtube.com/watch?v=uCd9UcbbVyc&t=5730s) about a path towards fair and explainable automated decision-making and to participate in a [panel](https://youtu.be/CxLQDENykRk?t=10903) at a Responsible AI [workshop](https://sites.google.com/view/rainscmu) at Carnegie Mellon University. I outline our vision in [these two slides](https://twitter.com/przemyslslaw/status/1658956246593024001/photo/1).
 <!-- * Our manuscript [Learning from Discriminatory Training Data](https://arxiv.org/pdf/1912.08189.pdf) has been accepted to AIES'23. We define the problem of discrimination prevention in machine learning as a dataset shift and propose a solution building on our prior work "Marrying Fairness and Explainability". -->
 * 🧑🏼‍🏫 UMass Amherst released [an article](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world) quoting me and my graduate course on [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI). In today's globalized world, we need to design techno-social systems with social responsibility in mind.
 
 **2022**
+
 * 🧑🏼‍🏫 I instructed for the first time my [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI) course.
 <!-- * Our paper [Marrying Fairness and Explainability in Supervised Learning](https://dl.acm.org/doi/abs/10.1145/3531146.3533236) was accepted to the FAccT'22 conference. Check out the [recorded presentation](https://www.youtube.com/watch?v=SA86eimWIcw). -->
 * 🔎 We successfully organized the NLP competition [SemEval-2022 Task 8](https://aclanthology.org/2022.semeval-1.155/) on "Multilingual news article similarity" that attracted over 30 research teams and released the largest labeled multilingual [dataset of news articles](https://zenodo.org/record/6507872) published across 124 countries.
 
 **$\le$ 2019**
+
 *  🏆 Our full-length [paper](https://dl.acm.org/doi/10.1145/3308558.3313684)  "Demographic Inference and Representative Population Estimates from Multilingual Social Media Data" received the "Best Poster" award by popular vote!
 
 * 🏆 Our [paper](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8) "Fast filtering and animation of large dynamic networks" received WICI Data Challenge Award from the University of Waterloo!
