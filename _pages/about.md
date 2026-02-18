@@ -10,7 +10,7 @@ redirect_from:
 
 [![image](/images/sims.png){: .align-right width="18%" }](/sims-lab/)
 
-I'm an Assistant Professor of Computer Science at [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/). I head the [SIMS lab](/sims-lab/), the [EQUATE](https://groups.cs.umass.edu/equate/) initiative, and the website [socialpolls.org](https://socialpolls.org/). Occasionally I write for the [Uncommon Good blog](https://uncommongood.substack.com/).
+I'm Przemek (pronounced “Pshemek”). I'm a (human) Assistant Professor of Computer Science at the [University College Dublin](https://www.ucd.ie/cs/) and an Adjunct Professor of Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/). I lead the (transatlantic) [SIMS Lab](/sims-lab/), and related public-interest initiatives, including [SocialPolls.org](https://socialpolls.org/) and the [Uncommon Good blog](https://uncommongood.substack.com), and led the [EQUATE](https://groups.cs.umass.edu/equate/) initiative.
 
 <!-- 👩🏼‍💻🧑🏿‍💻👨‍💻\
 **I'm recruiting a postdoc at University College Dublin! Email me if you are interested!**\
@@ -19,9 +19,16 @@ I'm an Assistant Professor of Computer Science at [University College Dublin](ht
 
 <!-- My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems. -->
 
-My research contributes statistical methods to **understand** and **augment** public opinion formation within our digital information society's systems. My endeavors are geared towards ensuring that tomorrow's AI and social media are representative, fair, explainable, and ready to interact with our open world for public good.
+I believe that an **informed public is a cornerstone of democracy**. My research contributes novel AI-powered methods to **understand** and **inform** the public agenda through modern social media algorithms and AI systems. 
+
+My goal is to help ensure that the digital media and AI systems of tomorrow are **representative**, **fair**, and **explainable**, and aligned with the **public good**.
+* To deepen our **understanding of public agenda**, I introduce novel AI-based methods measuring representative signals from large-scale social media and news media data. 
+* To **inform public agenda**, I pioneer [representative](https://socialpolls.org/) algorithms [adhering to legal provisions](https://groups.cs.umass.edu/equate-ml/2023/12/13/fair-machine-learning-post-affirmative-action/), e.g., [mitigating discrimination](https://groups.cs.umass.edu/equate-ml/2022/04/07/how-to-train-models-that-do-not-propagate-discrimination/) while providing [AI explanations](https://groups.cs.umass.edu/equate-ml/2023/07/25/towards-an-ai-accountability-policy/). 
+<!-- * To inform the public agenda, I study algorithms and online platforms that influence the public agenda, identifying the challenges related to political bias and discrimination. To address these challenges, I propose representative social media algorithms designed to facilitate engaging and constructive public discourse. In parallel, I develop methods that ensure automated decision-making adheres to legal provisions, mitigates discrimination, and provides transparent explanations. Together, my research aims to ensure that our digital media and AI systems of tomorrow are representative, fair, and explainable, while operating in our open world for the public good. -->
+
+<!-- My research contributes statistical methods to **understand** and **inform** public opinion formation within our digital information society's systems. My endeavors are geared towards ensuring that tomorrow's AI and social media are representative, fair, explainable, and ready to interact with our open world for public good.
 * To deepen our **understanding** of public opinion, I innovate statistical methods for extracting representative signals about the public from social media and news media. 
-* To **augment** public opinion formation, I pioneer representative social media designs facilitating political discourse and machine learning methods [adhering to legal provisions](https://groups.cs.umass.edu/equate-ml/2023/12/13/fair-machine-learning-post-affirmative-action/), e.g., by [preventing discrimination](https://groups.cs.umass.edu/equate-ml/2022/04/07/how-to-train-models-that-do-not-propagate-discrimination/), while [providing AI explanations](https://groups.cs.umass.edu/equate-ml/2023/07/25/towards-an-ai-accountability-policy/). 
+* To **augment** public opinion formation, I pioneer representative social media designs facilitating political discourse and machine learning methods [adhering to legal provisions](https://groups.cs.umass.edu/equate-ml/2023/12/13/fair-machine-learning-post-affirmative-action/), e.g., by [preventing discrimination](https://groups.cs.umass.edu/equate-ml/2022/04/07/how-to-train-models-that-do-not-propagate-discrimination/), while [providing AI explanations](https://groups.cs.umass.edu/equate-ml/2023/07/25/towards-an-ai-accountability-policy/).  -->
 
 
 Research areas: *fair and explainable machine learning, data science, computational social science, social media, network science, causality, open-world learning*.
@@ -30,44 +37,47 @@ Research areas: *fair and explainable machine learning, data science, computatio
 News
 ======
 **2026**
-* Our [opinion article](https://arxiv.org/html/2512.14223v1) "Research Opportunities and Challenges of the EU’s Digital Services Act" has been accepted for publication in The Communications of the ACM!
+* 📰 Our [opinion article](https://arxiv.org/html/2512.14223v1) "Research Opportunities and Challenges of the EU’s Digital Services Act" has been accepted for publication in The Communications of the ACM!
 
 **2025**
-* Our [paper](https://www.arxiv.org/abs/2506.12925) "Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs" received Best Paper Honorable Mention 🏆 at ICWSM'25! Congratulations to our team!
+* 🏆 Our [paper](https://www.arxiv.org/abs/2506.12925) "Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs" received Best Paper Honorable Mention at ICWSM'25! Congratulations team!
 
 ![image](/images/zdf.png){: .align-right width="20%"}
-* Our study "Political Biases on X before the 2025 German Federal Election" has been broadcast by ZDF (German public TV channel). I attach our Uncommon Good [blog post](https://open.substack.com/pub/uncommongood/p/political-biases-on-x-before-the?r=252a0b&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and a [research report](https://doi.org/10.5281/zenodo.14880275). Later this year we produced a [more comprehensive report](https://zenodo.org/records/17512529) for the 2025 presidential election in Poland, subsuming our research for Germany and Poland.
+* 📺 Our study "Political Biases on X before the 2025 German Federal Election" has been broadcast by ZDF (German public TV channel). I attach our Uncommon Good [blog post](https://open.substack.com/pub/uncommongood/p/political-biases-on-x-before-the?r=252a0b&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and a [research report](https://doi.org/10.5281/zenodo.14880275). Later this year we produced a [more comprehensive report](https://zenodo.org/records/17512529) for the 2025 presidential election in Poland, subsuming our research for Germany and Poland.
 
 **2024**
 
 ![image](/images/wsj.png){: .align-right width="15%"}
-- Our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981) in Science received wide media coverage from [The Wall Street Journal](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Frankfurter Allgemeine Zeitung](https://www.faz.net/aktuell/wissen/fake-news-trickste-facebook-wissenschaftler-aus-110012764.html), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), [ScienceInsider](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), and other media outlets!
+- 📰 Our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981) in Science received wide media coverage from [The Wall Street Journal](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Frankfurter Allgemeine Zeitung](https://www.faz.net/aktuell/wissen/fake-news-trickste-facebook-wissenschaftler-aus-110012764.html), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), [ScienceInsider](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), and other media outlets!
 
 ![image](/images/science.png){: .align-right width="20%"}
-* Science published our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981), along with an [editorial](https://www.science.org/doi/epdf/10.1126/science.adt2983) and [article](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt ) discussing its implications. In it, we call into question a widely reported [Science paper](https://www.science.org/doi/10.1126/science.abp9364), funded by Meta, which suggested that Facebook's news feed algorithm is effective at preventing misinformation.
+* 🔎 Science published our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981), along with an [editorial](https://www.science.org/doi/epdf/10.1126/science.adt2983) and [article](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt ) discussing its implications. In it, we call into question a widely reported [Science paper](https://www.science.org/doi/10.1126/science.abp9364), funded by Meta, which suggested that Facebook's news feed algorithm is effective at preventing misinformation.
 
-![image](/images/elpais.png){: .align-right width="20%"}
-* Our research on election polls on social media ([socialpolls.org](https://socialpolls.org/)) has been [covered by various media outlets](https://socialpolls.org/#/media), including [Tech Policy Press](https://www.techpolicy.press/x-polls-skew-political-realities-of-us-presidential-elections/), El País, Fox network, Phys.org, and reached the front page of [Reddit Science](https://www.reddit.com/r/science/comments/1f9ipvh/a_recent_study_examined_polls_conducted_on_x/)!
+![image](/images/reddit-science.png){: .align-right width="20%"}
+* 📰 Our research on election polls on social media ([socialpolls.org](https://socialpolls.org/)) has been [covered by various media outlets](https://socialpolls.org/#/media), including [Tech Policy Press](https://www.techpolicy.press/x-polls-skew-political-realities-of-us-presidential-elections/), El País, Fox network, Phys.org, and reached the front page of [Reddit Science](https://www.reddit.com/r/science/comments/1f9ipvh/a_recent_study_examined_polls_conducted_on_x/)!
 <!-- * Our three submissions to the International Conference for Computational Social Science (IC2S2) have been accepted as talks! (Topics: social polls, global news coverage, and scientific promotion.) -->
 <!-- * Out of our four submissions to ICWSM'24 (including JQD:DM), two manuscripts -- about social media polls and news articles -- were accepted, and two other ones received "Revise and Resubmit" decisions, which typically end in acceptance as well. Congratulations SIMS lab!!! -->
 
 **2023**
-* I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
-* I was honored to give a [talk](https://www.youtube.com/watch?v=uCd9UcbbVyc&t=5730s) about a path towards fair and explainable automated decision-making and to participate in a [panel](https://youtu.be/CxLQDENykRk?t=10903) at a Responsible AI [workshop](https://sites.google.com/view/rainscmu) at Carnegie Mellon University. I outline our vision in [these two slides](https://twitter.com/przemyslslaw/status/1658956246593024001/photo/1).
+* 📰 I've been quoted in the BusinessWest [article](https://businesswest.com/blog/ai-promises-to-impact-the-workforce-in-unexpected-ways/) "AI Promises To Impact The Workforce In Unexpected Ways"
+* 🧑🏼‍🏫 I was honored to give a [talk](https://www.youtube.com/watch?v=uCd9UcbbVyc&t=5730s) about a path towards fair and explainable automated decision-making and to participate in a [panel](https://youtu.be/CxLQDENykRk?t=10903) at a Responsible AI [workshop](https://sites.google.com/view/rainscmu) at Carnegie Mellon University. I outline our vision in [these two slides](https://twitter.com/przemyslslaw/status/1658956246593024001/photo/1).
 <!-- * Our manuscript [Learning from Discriminatory Training Data](https://arxiv.org/pdf/1912.08189.pdf) has been accepted to AIES'23. We define the problem of discrimination prevention in machine learning as a dataset shift and propose a solution building on our prior work "Marrying Fairness and Explainability". -->
-* UMass Amherst released [an article](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world) quoting me and my graduate course on [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI). In today's globalized world, we need to design techno-social systems with social responsibility in mind.
+* 🧑🏼‍🏫 UMass Amherst released [an article](https://www.umass.edu/gateway/article/bridging-ethics-and-technology-fast-changing-world) quoting me and my graduate course on [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI). In today's globalized world, we need to design techno-social systems with social responsibility in mind.
 
 **2022**
-* I instructed for the first time my [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI) course.
+* 🧑🏼‍🏫 I instructed for the first time my [Responsible AI](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI) course.
 <!-- * Our paper [Marrying Fairness and Explainability in Supervised Learning](https://dl.acm.org/doi/abs/10.1145/3531146.3533236) was accepted to the FAccT'22 conference. Check out the [recorded presentation](https://www.youtube.com/watch?v=SA86eimWIcw). -->
-* We successfully organized the NLP competition [SemEval-2022 Task 8: Multilingual news article similarity](https://aclanthology.org/2022.semeval-1.155/) that attracted over 30 research teams and released the largest labeled multilingual [dataset of news articles](https://zenodo.org/record/6507872) published across 124 countries.
+* 🔎 We successfully organized the NLP competition [SemEval-2022 Task 8](https://aclanthology.org/2022.semeval-1.155/) on "Multilingual news article similarity" that attracted over 30 research teams and released the largest labeled multilingual [dataset of news articles](https://zenodo.org/record/6507872) published across 124 countries.
 
-**Press coverage before 2022**
+**$\le$ 2019**
+*  🏆 Our full-length [paper](https://dl.acm.org/doi/10.1145/3308558.3313684)  "Demographic Inference and Representative Population Estimates from Multilingual Social Media Data" received the "Best Poster" award by popular vote!
+
+* 🏆 Our [paper](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8) "Fast filtering and animation of large dynamic networks" received WICI Data Challenge Award from the University of Waterloo!
+- 📰 Coverage by outlets such as WSJ and NYT of the Observatory on Social Media research, which used my [online algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8) for fast graph filtering and visualization.
 
 ![image](/images/elmundo.png){: .align-right width="30%"}
-- El Mundo, [El 'oráculo' de los bytes](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html), [pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)
-- El Mundo, [Los entresijos de Twitter](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html)
-- Extensive coverage by outlets such as WSJ and NYT of the research for the Observatory on Social Media, which used my [fast dynamic network visualization algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8), [osome.iu.edu](https://osome.iu.edu/media)
+- 📰 El Mundo, [El 'oráculo' de los bytes](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html) ([pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)).
+- 📰 El Mundo, [Los entresijos de Twitter](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html).
 
 <!-- Press coverage
 ======
@@ -79,7 +89,8 @@ News
 
 
 [![image](/images/rai.jpg){: .align-center width="100%" }](https://przemyslslaw.github.io/teaching/2022-fall_ResponsibleAI)
-*My novel course: Responsible AI. Image generously contributed by [Mohamed Hassan](https://pxhere.com/en/photo/1638452).*
+*My (novel) course on Responsible AI.*
+Image by [Mohamed Hassan](https://pxhere.com/en/photo/1638452).
 
 
 <!--
@@ -92,11 +103,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
