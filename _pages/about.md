@@ -47,7 +47,7 @@ News
 
 **2024**
 
-![image](/images/wsj.png){: .align-right width="15%"}
+![image](/images/wsj.png){: .align-right width="20%"}
 - 📰 Our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981) in Science received wide media coverage from [The Wall Street Journal](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Frankfurter Allgemeine Zeitung](https://www.faz.net/aktuell/wissen/fake-news-trickste-facebook-wissenschaftler-aus-110012764.html), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), [ScienceInsider](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), and other media outlets!
 
 ![image](/images/science.png){: .align-right width="20%"}
