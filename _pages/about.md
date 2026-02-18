@@ -47,7 +47,7 @@ News
 
 **2024**
 
-![image](/images/wsj.png){: .align-right width="15%"}
+![image](/images/wsj.png){: .align-right width="20%"}
 - 📰 Our [eLetter](https://zenodo.org/doi/10.5281/zenodo.13787981) in Science received wide media coverage from [The Wall Street Journal](https://www.wsj.com/tech/science-editors-raise-new-doubts-on-metas-claims-it-isnt-polarizing-aaf955e4), [Frankfurter Allgemeine Zeitung](https://www.faz.net/aktuell/wissen/fake-news-trickste-facebook-wissenschaftler-aus-110012764.html), [Haaretz](https://www.haaretz.co.il/science/social-science/2024-09-26/ty-article-magazine/.premium/00000192-2e43-d08a-a7ba-3ed3b7410000), [ScienceInsider](https://www.science.org/content/article/study-found-facebook-algorithm-didnt-promote-political-polarization-critics-doubt), and other media outlets!
 
 ![image](/images/science.png){: .align-right width="20%"}
@@ -75,7 +75,7 @@ News
 * 🏆 Our [paper](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8) "Fast filtering and animation of large dynamic networks" received WICI Data Challenge Award from the University of Waterloo!
 - 📰 Coverage by outlets such as WSJ and NYT of the Observatory on Social Media research, which used my [online algorithm](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0027-8) for fast graph filtering and visualization.
 
-![image](/images/elmundo.png){: .align-right width="30%"}
+![image](/images/elmundo.png){: .align-right width="20%"}
 - 📰 El Mundo, [El 'oráculo' de los bytes](http://www.elmundo.es/elmundo/2013/09/10/baleares/1378835134.html) ([pdf](http://issuu.com/establopegaso/docs/algoritmo_big_data)).
 - 📰 El Mundo, [Los entresijos de Twitter](http://www.elmundo.es/elmundo/2011/12/20/baleares/1324372757.html).
 
