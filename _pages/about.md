@@ -19,7 +19,7 @@ I'm Przemek (pronounced “Pshemek”). I'm an Assistant Professor of Computer S
 
 <!-- My research contributes statistical methods to understand and augment social intelligence in the systems of our information society. The ambition of my research is to develop a mathematical understanding of fundamental social processes and to design **fair and efficient social** computing systems. -->
 
-I believe that an **informed public is a cornerstone of democracy**. My research contributes novel AI-powered methods to **understand** and **inform** the public agenda through modern social media algorithms and AI systems. 
+An **informed public is a cornerstone of healthy democracy**. My research contributes novel AI-powered methods to **understand** and **inform** the public agenda through modern social media algorithms and AI systems. 
 
 My goal is to help ensure that the digital media and AI systems of tomorrow are **representative**, **fair**, and **explainable**, and **aligned** with the **public good**.
 * To deepen our **understanding of public agenda**, I introduce novel AI-based methods measuring representative signals from large-scale social media and news media data, e.g., public support for presidential election candidates. 
